@@ -68,10 +68,10 @@
         - 
           title: "Lab03 -  LinkedLists"
           url: "labs/Lab03.html"
-          deadline: "2024-09-27"
+          deadline: "2024-10-04"
         - 
           title: "HW02 -  LinkedLists"
-          deadline: "2024-09-27"
+          deadline: "2024-10-04"
           #url: "hws/HW02.html"
         
     - 
@@ -93,7 +93,7 @@
       assignments: 
         - 
           title: "Lab04 - Interfaces"
-          #url: "labs/Lab04.html"
+          url: "labs/Lab04.html"
           deadline: 2024-10-04
         -
           title: "No Homework"
