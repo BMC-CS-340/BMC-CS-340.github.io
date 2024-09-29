@@ -97,7 +97,7 @@
           deadline: 2024-10-04
     - 
       date: 2024-09-30
-      title: Lecture 8 <br> Stacks & Junit
+      title: Lecture 8 <br> Stacks <br> Checkstyle <br> Junit
       #slides: "slides/lecture08.pdf"
       #readings:
       #  -
@@ -105,7 +105,7 @@
       recording: ~
     -
       date: 2024-10-02
-      title: Lecture 9 <br> Queues <br> Lists & Iterators
+      title: Lecture 9 <br> Implementing Stacks <br> Queues 
       #slides: "slides/lecture09.pdf"
       #readings:
       #  -
@@ -122,7 +122,7 @@
           #url: "hws/HW03.html"
     -
       date: 2024-10-07
-      title: Lecture 10 <br> Iterators, Recursion & Binary Search
+      title: Lecture 10 <br> Lists <br> Iterators
       #slides: "slides/lecture10.pdf"
       #readings:
       #  -
@@ -131,7 +131,7 @@
       
     - 
       date: 2024-10-09
-      title: Lecture 11 <br> Review #Trees
+      title: Lecture 11 <br> Recursion & Binary Search <br> Review #Trees
       #slides: "slides/lecture11.pdf"
       #readings:
       #  -
