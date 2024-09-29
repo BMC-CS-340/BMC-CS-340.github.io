@@ -106,7 +106,7 @@ public static void main(String[] args){
 Will produce the following output:
 ```
 Generally, a Dolphin can be found in water, it can not lay eggs, and is often overheard saying 'ak, ak, ak, ak'
-Generally, a Platypus can be found on land, it can lay eggs, and is often overheard saying 'errrr'
+Generally, a Platypus can be found in water, it can lay eggs, and is often overheard saying 'errrr'
 Generally, a Human can be found on land, it can not lay eggs, and is often overheard saying 'I'll take a grande latte with a double-shot of espresso'
 Generally, a CSStudent can be found on land, it can not lay eggs, and is often overheard saying 'I love programming!'
 ```
