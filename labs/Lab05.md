@@ -4,7 +4,7 @@ title: "CheckStyle, Stacks, Unit Testing"
 type: Lab
 number: 05
 active_tab: lab
-release_date: 2024-10-11
+release_date: 2024-10-02
 
 ---
 
@@ -61,14 +61,13 @@ The main goals for this lab are:
 You will need to have a TA check off on all your exercises.
 If you do not complete the lab during the lab session, you
 must have a TA check off all your exercises during office hours.
-You must get this lab checked off by the due date for HW04.
 
 ## Exercise 1 - Checkstyle
 
 During today's class we introduced checkstyle. Checkstyle is an open-sourced tool that 
 allows one to easily check whether their code complies with customizable rules.
 
-Your task is to modify `LookupZip.java` from `lecture07` so that the checkstyle passes.
+Your task is to modify `LookupZip.java` from `lecture08` so that the checkstyle passes.
 
 Getting Started:
 1. Download the xml checkstyle from the course GitHub repository: ```wget https://raw.githubusercontent.com/BMC-CS-151/class-examples-f23/main/cs151_checks.xml```
