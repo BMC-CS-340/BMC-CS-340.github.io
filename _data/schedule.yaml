@@ -122,7 +122,7 @@
           #url: "hws/HW03.html"
     -
       date: 2024-10-07
-      title: Lecture 10 <br> Lists <br> Iterators
+      title: Lecture 10 <br> Dequeues <br> Lists <br> Iterators
       #slides: "slides/lecture10.pdf"
       #readings:
       #  -
