@@ -119,7 +119,7 @@
         -
           deadline: 2024-10-11
           title: "HW03 -  Stacks & Queues"
-          #url: "hws/HW03.html"
+          url: "hws/HW03.html"
     -
       date: 2024-10-07
       title: Lecture 10 <br> Dequeues <br> Lists <br> Iterators
