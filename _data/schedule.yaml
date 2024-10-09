@@ -122,7 +122,7 @@
           url: "hws/HW03.html"
     -
       date: 2024-10-07
-      title: Lecture 10 <br> Dequeues <br> Lists <br> Iterators
+      title: Lecture 10 <br> Dequeues 
       slides: "slides/lecture10.pdf"
       #readings:
       #  -
@@ -131,7 +131,7 @@
       
     - 
       date: 2024-10-09
-      title: Lecture 11 <br> Recursion & Binary Search <br> Review #Trees
+      title: Lecture 11 <br> Lists <br> Iterators <br> Binary Search  #Trees
       #slides: "slides/lecture11.pdf"
       #readings:
       #  -
