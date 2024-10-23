@@ -4,7 +4,7 @@ title: "Binary Trees"
 type: Lab
 number: 07
 active_tab: lab
-release_date: 2024-02-29
+release_date: 2024-10-23
 
 ---
 
@@ -88,6 +88,8 @@ and come back to them later in the lab.
 In a file called `TestLinkedBinaryTree.java`,
 write JUnit tests test your methods. 
 Remember to thorougly test each method. 
+
+You won't submit this file for a grade, but you should still write tests to refine the specification and check your code for correctness.
 
 ## Exercise 3 - `contains` and `height`
 Proceed with implementing and testing `contains` and `height`.

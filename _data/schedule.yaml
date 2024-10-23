@@ -170,7 +170,7 @@
       assignments:
           -
             title: "Lab07 - Binary Trees"
-            #url: "labs/Lab07.html"
+            url: "labs/Lab07.html"
             deadline: 2024-11-01
           -
             title: "HW05 - Binary Trees"
