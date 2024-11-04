@@ -104,4 +104,4 @@ In this lab we covered binary trees. You gained more experiece using
 checkstyle, unit testing, and implementing an interface.
 
 ### Signing out
-You do not need to be signed out by a TA for this lab. You will be submitting your code on Gradescope as part of HW05.
+You do not need to be signed out by a TA for this lab. Your lab will serve as a starting point for HW05 which will be submitted on Gradescope.
