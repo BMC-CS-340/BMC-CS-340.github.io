@@ -220,11 +220,11 @@
         - 
           title: "HW06 - Heaps"
           deadline: 2024-11-17
-          #url: "hws/HW06.html"
+          url: "hws/HW06.html"
     - 
       date: 2024-11-11
       title: Lecture 17 <br> Maps 
-      #slides: "slides/lecture18.pdf"
+      slides: "slides/lecture17.pdf"
       recording: ~
       readings: ~
     - 
