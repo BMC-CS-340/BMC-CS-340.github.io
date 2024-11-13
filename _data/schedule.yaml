@@ -229,8 +229,8 @@
       readings: ~
     - 
       date: 2024-11-13
-      title: Lecture 18 <br> Maps  
-      #slides: "slides/lecture18.pdf"
+      title: Lecture 18 <br> HashMaps I
+      slides: "slides/lecture18.pdf"
       assignments: 
         - 
           #deadline: 2023-12-05
@@ -240,11 +240,11 @@
           title: "No Homework"
     - 
       date: 2024-11-18
-      title: Lecture 19 <br> Hash Tables 
+      title: Lecture 19 <br> HashMaps II <br> Handling Collisions
       #slides: "slides/lecture20.pdf"
     - 
       date: 2024-11-20
-      title: Lecture 20 <br> Hash Tables
+      title: Lecture 20 <br> HashMaps III <br> 
       #slides: "slides/lecture20.pdf"
       #recording: ~
       #readings:
