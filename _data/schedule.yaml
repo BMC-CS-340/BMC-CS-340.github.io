@@ -258,7 +258,7 @@
         -
             deadline: 2024-12-01
             title: "HW07 - Hash Tables"
-            #url: "hws/HW07.html"
+            url: "hws/HW07.html"
     - 
       date: 2024-11-25
       title: Lecture 21 <br> Merge Sort <br> Quick Sort
