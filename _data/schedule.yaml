@@ -245,7 +245,7 @@
     - 
       date: 2024-11-20
       title: Lecture 20 <br> HashMaps III <br> 
-      #slides: "slides/lecture20.pdf"
+      slides: "slides/lecture20.pdf"
       #recording: ~
       #readings:
       #  -
@@ -254,7 +254,7 @@
         -
             title: "Lab09 - HashMaps"
             deadline: 2024-12-01
-            #url: "labs/Lab09.html"
+            url: "labs/Lab09.html"
         -
             deadline: 2024-12-01
             title: "HW07 - Hash Tables"
