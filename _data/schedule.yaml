@@ -271,7 +271,7 @@
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
     - 
       date: 2024-11-27
-      title: Lecture 22 <br> Merge Sort, Quick Sort <br> Balanced Search Trees, AVL Trees
+      title: Lecture 22 AVL Trees I
       #slides: "slides/lecture22.pdf"
       recording: ~
       #readings:
@@ -286,7 +286,7 @@
           title: "No Homework"
     - 
       date: 2024-12-02
-      title: Lecture 23 <br> Balanced Trees
+      title: Lecture 23 <br> AVL Trees II
       #slides: "slides/lecture23.pdf"
       readings: 
         -
@@ -294,7 +294,7 @@
       recording: ~
     - 
       date: 2024-12-04
-      title: Lecture 24 <br> Splay Trees <br> Graphs 
+      title: Lecture 24 <br> Splay Trees 
       #slides: "slides/lecture24.pdf"
       recording: ~
       recording: ~
