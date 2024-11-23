@@ -1,0 +1,51 @@
+State,Bordering States
+Alabama,Mississippi,Georgia,Tennessee,Florida
+Alaska,
+Arizona,California,Nevada,Utah,Colorado,New Mexico
+Arkansas,Missouri,Tennessee,Mississippi,Louisiana,Texas,Oklahoma
+California,Oregon,Nevada,Arizona
+Colorado,Wyoming,Nebraska,Kansas,Oklahoma,New Mexico,Arizona,Utah
+Connecticut,New York,Rhode Island,Massachusetts
+Delaware,Maryland,Pennsylvania,New Jersey
+Florida,Georgia,Alabama
+Georgia,Tennessee,North Carolina,South Carolina,Florida,Alabama
+Hawaii,
+Idaho,Oregon,Washington,Montana,Wyoming,Utah,Colorado
+Illinois,Iowa,Wisconsin,Indiana,Kentucky,Missouri
+Indiana,Illinois,Kentucky,Ohio,Michigan
+Iowa,Minnesota,Wisconsin,Illinois,Missouri,Nebraska
+Kansas,Missouri,Nebraska,Oklahoma,Colorado,Texas
+Kentucky,Illinois,Indiana,Ohio,West Virginia,Tennessee,Virginia
+Louisiana,Texas,Arkansas,Mississippi
+Maine,New Hampshire
+Maryland,Pennsylvania,Delaware,Virginia,West Virginia
+Massachusetts,New York,Rhode Island,Connecticut
+Michigan,Indiana,Ohio,Wisconsin
+Minnesota,Iowa,Wisconsin,North Dakota,South Dakota
+Mississippi,Alabama,Louisiana,Arkansas,Tennessee
+Missouri,Iowa,Illinois,Indiana,Kentucky,Tennessee,Arkansas,Oklahoma,Kansas,Nebraska
+Montana,Wyoming,South Dakota,North Dakota,Idaho
+Nebraska,South Dakota,Iowa,Missouri,Kansas,Colorado,Wyoming
+Nevada,Oregon,California,Idaho,Utah,Arizona
+New Hampshire,Maine,Vermont,Massachusetts
+New Jersey,New York,Pennsylvania,Delaware
+New Mexico,Colorado,Arizona,Utah,Texas,Oklahoma
+New York,Vermont,Massachusetts,Connecticut,Pennsylvania,New Jersey
+North Carolina,Virginia,Tennessee,Georgia,South Carolina
+North Dakota,Montana,South Dakota,Minnesota
+Ohio,Indiana,Kentucky,West Virginia,Pennsylvania
+Oklahoma,Texas,Kansas,Missouri,Arkansas,Colorado
+Oregon,Washington,California,Idaho,Nevada
+Pennsylvania,New Jersey,Delaware,Maryland,West Virginia,Ohio,New York
+Rhode Island,Connecticut,Massachusetts
+South Carolina,North Carolina,Georgia,Florida
+South Dakota,North Dakota,Minnesota,Iowa,Nebraska,Montana,Wyoming
+Tennessee,Alabama,Georgia,North Carolina,Virginia,Missouri,Arkansas,Kentucky
+Texas,New Mexico,Oklahoma,Arkansas,Louisiana
+Utah,Idaho,Wyoming,Colorado,New Mexico,Arizona,Nevada
+Vermont,New Hampshire,New York,Massachusetts
+Virginia,West Virginia,Kentucky,Tennessee,North Carolina,Maryland
+Washington,Oregon,Idaho
+West Virginia,Ohio,Pennsylvania,Maryland,Virginia,Kentucky,Tennessee
+Wisconsin,Illinois,Iowa,Minnesota,Michigan
+Wyoming,Montana,South Dakota,Nebraska,Colorado,Idaho,Utah
