@@ -271,7 +271,7 @@
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
     - 
       date: 2024-11-27
-      title: Lecture 22 <br> AVL Trees I
+      title: NO CLASS - Happy Thanksgiving! 
       #slides: "slides/lecture22.pdf"
       recording: ~
       #readings:
@@ -279,7 +279,7 @@
       #    title: "Chapter 11.2 - 11.6"
       assignments: 
         -
-          title: "Lab10 - AVL Trees"
+          title: "No Lab"
           #url: "labs/Lab10.html"
           deadline: 2024-12-06
         -
@@ -300,10 +300,9 @@
       recording: ~
       assignments: 
         - 
+          title: "Lab 10 - AVL Trees"
           #deadline: <s>2023-12-14</s>
-          title: "No Lab"
-              #"<s>HW09 - Google Maps</s>"
-              #_url: "labs/Lab00.html"
+          #_url: "labs/Lab00.html"
         -
           title: "HW08 - AVL Trees"
           deadline: 2024-12-13
