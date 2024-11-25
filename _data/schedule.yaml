@@ -281,7 +281,7 @@
         -
           title: "No Lab"
           #url: "labs/Lab10.html"
-          deadline: 2024-12-06
+          #deadline: 2024-12-06
         -
           title: "No Homework"
     - 
@@ -301,7 +301,7 @@
       assignments: 
         - 
           title: "Lab 10 - AVL Trees"
-          #deadline: <s>2023-12-14</s>
+          deadline: 2024-12-06
           #_url: "labs/Lab00.html"
         -
           title: "HW08 - AVL Trees"
