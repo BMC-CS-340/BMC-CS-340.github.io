@@ -144,7 +144,7 @@ Start by implementing Dijkstra's algorithm in `Util.java`. The algorithm works b
 
 3. A priority queue (min-heap) to efficiently select the next vertex to explore - the one smallest tentative distance. This structure should have efficient poll operations to quickly retrieve and remove the vertex with the smallest distance. For this collection, use Java's builtin `java.util.PriorityQueue`.
 
-By carefully choosing and managing these structures, you'll be able to efficiently compute the shortest path from the source to the destination. Discuss your choices for (1) and (2) in the README. Both should be builtin Java data structures. Consult <a href=labs/lab11/builtin.md> this table</a> for a list of builtin Java data structures.
+By carefully choosing and managing these structures, you'll be able to efficiently compute the shortest path from the source to the destination. Discuss your choices for (1) and (2) in the README. Both should be builtin Java data structures. Consult [this table](labs/lab11/builtin.md) for a list of builtin Java data structures.
 
 <b> Defining the Ordering of Priority Queue Elements:</b>
 
