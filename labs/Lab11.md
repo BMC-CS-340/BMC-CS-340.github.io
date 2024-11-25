@@ -108,7 +108,7 @@ You will implement a Graph where each state is represented as a vertex. The edge
 
 I recommend you do this in the following steps:
 
-1. Create a file named `DriverLab11.java` where you will implement the solution. Start by creating an empty `AdjacencyListGraph`. Then, read in the `us-state-capitals.csv` file, which contains information about the U.S. states and their capital location. You will need a `State` class to store the state's name, latitude, and longitude. Once you've created the `State` objects, add them to the graph as vertices.
+1. Create a file named `DriverLab11.java` where you will implement the solution. Start by creating an empty `AdjacencyListGraph`. Then, read in the `us-state-capitals.csv` file, which contains information about the U.S. states and their capital location. You will need a `State` class to store the state's name, latitude, and longitude. Be sure to include a `getName()` method for autograding. Once you've created the `State` objects, add them to the graph as vertices.
 
 2. Next, read the border information, which will serve as the edges between states. Each row in the border file will provide two states and the distance between them. Use the Haversine formula to calculate the distance between these states (you can find the formula and its implementation in `Util.java`). Add an edge between the corresponding vertices (states) in the graph, using the calculated distance as the edge weight. When inserting edges, ensure that there are no duplicates. (You may need to implement .equals() methods for both the State and Edge classes if needed).
 
@@ -146,7 +146,7 @@ Start by implementing Dijkstra's algorithm in `Util.java`. The algorithm works b
 
 By carefully choosing and managing these structures, you'll be able to efficiently compute the shortest path from the source to the destination. Discuss your choices for (1) and (2) in the README. Both should be builtin Java data structures.
 
-<b> Defining the Ordering of Priority Queue Elements</b>
+<b> Defining the Ordering of Priority Queue Elements:</b>
 
 In Dijkstra's algorithm, elements in a priority queue need to be ordered by their distance from the source node. The priority queue ensures that the node with the smallest distance is processed first. In the case of a min heap, each node must be smaller than its children.
 
@@ -158,6 +158,10 @@ Once you are confident that your algorithm is correct, finish up your driver by 
 
 The csv files will be passed as command line arguments in the following order:
 `DriverLab11 us-state-capitals.csv bordering-states.csv`
+
+### Submitting your Assignment for Grading
+
+Submit your code to gradescope where it will be autograded.
 
 What to submit:
 1. README with the following:
