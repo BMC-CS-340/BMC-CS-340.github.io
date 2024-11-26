@@ -166,8 +166,11 @@ Submit your code to gradescope where it will be autograded.
 
 What to submit:
 1. README with the following:
+
     (a) Your name and how long the assignment took you.
+
     (b) What data structure did you use for your adjacency list and why?
+
     (c) What data structures did you use to track visited vertices and the current distances from the source, and why?
 
 2. AdjacencyListGraph.java
