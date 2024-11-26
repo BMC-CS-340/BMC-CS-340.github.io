@@ -50,11 +50,12 @@ You can download the materials for this assignment here:
 =============================================================
 
 In this lab, you will develop a routing algorithm to securely send data between state capitals. Each state capital building has a government-approved router, but not all capitals are directly connected. Only state capitals of bordering states are connected. Given a source state and a destination state, you will use Dijkstra's algorithm to calculate the shortest path (in kilometers) for transmitting the data, with the route passing only through the capitals of bordering states. For example, a secure message from Albany, NY to Annapolis, Maryland could follow one of these paths: 
-- (Albany, NY -> Trenton, NJ -> Dover, DE -> Annapolis, MD) 
-- (Albany, NY -> Harrisburg, PA -> Annapolis, MD)
-However the path (Albany, NY -> Dover, DE -> Annapolis, MD) would not be valid, as New York and Delaware do not share a border. 
+- `(Albany, NY -> Trenton, NJ -> Dover, DE -> Annapolis, MD)` 
+- `(Albany, NY -> Harrisburg, PA -> Annapolis, MD)`
 
-You will implement a Graph where each state is represented as a vertex. The edges between vertices represent connections between bordering states, with edge weightts indicating the distance between capitals.
+However the path `(Albany, NY -> Dover, DE -> Annapolis, MD)` would not be valid, as New York and Delaware do not share a border. 
+
+You will implement a Graph where each state is represented as a vertex. The edges between vertices represent connections between bordering states, with edge weights indicating the distance between capitals.
 
 
 ## Objectives:
@@ -90,7 +91,7 @@ For the following graph (adapted from lecture): <INCLUDE GRAPHIC> the adjacency 
 - <b> 4: </b> [Edge(W4, 5)]
 - <b> 5: </b> []
 
-Think about which data structure(s) you should use to keep track of this mapping from vertices to outoging edges. 
+Think about which data structure(s) you should use to keep track of this mapping from vertices to outgoing edges. 
 In your README, describe which data structure(s) you chose and why.
 
 Implement the required methods as specified in the `Graph` interface. 
@@ -114,7 +115,7 @@ I recommend you do this in the following steps:
 
 3. Once you’ve added all the vertices and edges, use the `printGraph` method from the `Util` class to print the graph and verify its correctness. The graph should show each state with outgoing edges to the states it borders. If you find any duplicate edges, consider revisiting your equals() methods to handle the comparison properly. Finally, once you're confident the graph is accurate, comment out the call to `printGraph` to avoid unnecessary output.
 
-### Exercise 3: Implement the Shortest Path Algorithm (Djikstra's)
+### Exercise 3: Implement the Shortest Path Algorithm (Dijkstra's)
 
 In this part, will prompt the user for the source and destination state and output the shortest path between the two. Here are some sample inputs and outputs:
 
@@ -138,7 +139,7 @@ Sending a total distance of: 1016.67km
 
 Start by implementing Dijkstra's algorithm in `Util.java`. The algorithm works by maintaining a collection of the shortest known distances to each vertex, which it gradually refines. Starting from the source, it explores the closest vertices first, updating their distances as shorter paths are found. The process continues until all reachable vertices have been processed, ensuring the shortest path to each one is discovered. Use the pseudocode from lecture as a starting point. Before you begin coding, think about what data structures you will need:
 
-1. A collection to store the shortest known distances from the source to each vertex. Initially, the source vertex will have a distance of zero and all other vertices will have infinity (use `Double.MAX_VALUE` in your implmentation as a proxy for infinity). This structure should have efficient lookups to quickly retrieve the current shortest known distance to a vertex. It should also have efficient updates to update the known distance if a shorter path to a vertex is found.
+1. A collection to store the shortest known distances from the source to each vertex. Initially, the source vertex will have a distance of zero and all other vertices will have infinity (use `Double.MAX_VALUE` in your implementation as a proxy for infinity). This structure should have efficient lookups to quickly retrieve the current shortest known distance to a vertex. It should also have efficient updates to update the known distance if a shorter path to a vertex is found.
 
 2. A collection to keep track of vertices that have already been processed, so they are not revisited. Once a vertex has been "settled" (i.e., the shortest path to it has been found), it is added to this data structure. It should have efficient insertions and lookups.
 
