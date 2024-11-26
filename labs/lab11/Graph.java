@@ -3,8 +3,6 @@ public interface Graph<V> {
     /** Returns the number of vertices of the graph. */
     int numVertices();
 
-    /** Returns the number of edges of the graph. */
-    int numEdges();
 
     /** Returns the vertices of the graph as an iterable collection. */
     Iterable<Vertex<V>> vertices();
