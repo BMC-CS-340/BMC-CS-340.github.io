@@ -84,12 +84,12 @@ Start by creating a `AdjacencyListGraph.java` that implements the `Graph` interf
 In an adjacency list each vertex of the graph is associated with a list of outgoing edges. 
 
 For the following graph (adapted from lecture): <INCLUDE GRAPHIC> the adjacency lists would be as follows:
-- <b> 0: </b> [Edge(W0, 1)]
-- <b> 1: </b> [Edge(W1, 2)]
-- <b> 2: </b> [Edge(W2, 4)]
-- <b> 3: </b> [Edge(W3, 1)]
-- <b> 4: </b> [Edge(W4, 5)]
-- <b> 5: </b> []
+- <b> 0: </b> `[Edge(W0, 1)]`
+- <b> 1: </b> `[Edge(W1, 2)]`
+- <b> 2: </b> `[Edge(W2, 4)]`
+- <b> 3: </b> `[Edge(W3, 1)]`
+- <b> 4: </b> `[Edge(W4, 5)]`
+- <b> 5: </b> `[]`
 
 Think about which data structure(s) you should use to keep track of this mapping from vertices to outgoing edges. 
 In your README, describe which data structure(s) you chose and why.
