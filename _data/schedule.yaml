@@ -286,7 +286,7 @@
           title: "No Homework"
     - 
       date: 2024-12-02
-      title: Lecture 23 <br> AVL Trees II
+      title: Lecture 23 <br> AVL Trees
       #slides: "slides/lecture23.pdf"
       readings: 
         -
@@ -301,7 +301,7 @@
       assignments: 
         - 
           title: "Lab 10 - AVL Trees"
-          deadline: 2024-12-06
+          deadline: 2024-12-13
           #_url: "labs/Lab00.html"
         -
           title: "HW08 - AVL Trees"
