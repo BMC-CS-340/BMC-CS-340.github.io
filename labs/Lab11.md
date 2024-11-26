@@ -83,7 +83,7 @@ Download:
 Start by creating a `AdjacencyListGraph.java` that implements the `Graph` interface you downloaded.
 In an adjacency list each vertex of the graph is associated with a list of outgoing edges. 
 
-For the following graph (adapted from lecture)(lab11/graph.png): the adjacency lists would be as follows:
+For the following graph (adapted from lecture)![graph](lab11/graph.png): the adjacency lists would be as follows:
 - <b> 0: </b> `[Edge(3, 1)]`
 - <b> 1: </b> `[Edge(1.5, 2)]`
 - <b> 2: </b> `[Edge(4, 4)]`
