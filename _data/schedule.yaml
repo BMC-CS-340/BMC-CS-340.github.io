@@ -301,11 +301,11 @@
       assignments: 
         - 
           title: "Lab 10 - AVL Trees"
-          deadline: 2024-12-13
+          deadline: 2024-12-15
           #_url: "labs/Lab00.html"
         -
           title: "HW08 - AVL Trees"
-          deadline: 2024-12-13
+          deadline: 2024-12-15
           #url: "hws/HW08.html"
     - 
       date: 2024-12-09
