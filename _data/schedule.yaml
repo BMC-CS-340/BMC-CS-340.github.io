@@ -295,18 +295,18 @@
     - 
       date: 2024-12-04
       title: Lecture 24 <br> Splay Trees 
-      #slides: "slides/lecture24.pdf"
+      slides: "slides/lecture24.pdf"
       recording: ~
       recording: ~
       assignments: 
         - 
           title: "Lab 10 - AVL Trees"
           deadline: 2024-12-15
-          #_url: "labs/Lab00.html"
+          _url: "labs/Lab10.html"
         -
           title: "HW08 - AVL Trees"
           deadline: 2024-12-15
-          #url: "hws/HW08.html"
+          url: "hws/HW08.html"
     - 
       date: 2024-12-09
       title: Lecture 25 <br> Graphs
