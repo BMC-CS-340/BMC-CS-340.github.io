@@ -310,7 +310,7 @@
     - 
       date: 2024-12-09
       title: Lecture 25 <br> Graphs
-      #slides: "slides/lecture25.pdf"
+      slides: "slides/lecture25.pdf"
       readings:
         -
           title: "Chapter 14.1 - Chapter 14.3"
