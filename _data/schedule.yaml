@@ -317,12 +317,13 @@
     -
       date: 2024-12-11
       title: Lecture 26 <br> Midterm Review
-      #slides: "slides/lecture26.pdf"
+      slides: "slides/lecture26.pdf"
       readings: ~
       recording: ~
       assignments:
           - 
             title: "Lab 11 - Graphs"
+            url: "labs/Lab11.html"
             deadline: 2024-12-20
           -
             title: "No Homework"

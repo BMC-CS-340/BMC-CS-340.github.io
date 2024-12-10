@@ -179,6 +179,5 @@ What to submit:
 5. State.java
 6. Any other files you created (no need to upload Graph, Edge, or Vertex.java)
 
-GRADING:
--> some of this will be extra credit maybe 
-
+Grading:
+This assignment will be extra credit (up to 10% points on your final exam).
