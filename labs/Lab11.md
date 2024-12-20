@@ -136,6 +136,7 @@ Mississippi
 
 Sending a total distance of: 1016.67km
 ```
+Exit the program by using `return` (DO NOT USE `SYSTEM.EXIT`)  if the user types `exit`.
 
 Start by implementing Dijkstra's algorithm in `Util.java`. The algorithm works by maintaining a collection of the shortest known distances to each vertex, which it gradually refines. Starting from the source, it explores the closest vertices first, updating their distances as shorter paths are found. The process continues until all reachable vertices have been processed, ensuring the shortest path to each one is discovered. Use the pseudocode from lecture as a starting point. Before you begin coding, think about what data structures you will need:
 
