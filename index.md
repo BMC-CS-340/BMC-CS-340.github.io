@@ -50,7 +50,7 @@ Course number
 : CMSC B151 
 
 Instructor
-: [Elizabeth Dinella](https://www.seas.upenn.edu/~edinella/)
+: [Elizabeth Dinella](https://elizabethdinella.github.io/)
 
 Teaching Assistants
 : [Course Staff](staff.html) 
@@ -62,7 +62,7 @@ Code Samples From Lecture
 : [Github](https://github.com/BMC-CS-151/class-examples-s25)
 
 Discussion Forum
-: [Piazza](https://piazza.com/class/m0jmvenkle36yh)
+: [Piazza](https://piazza.com/class/m65gaefia22l0)
 
 Time and place
 : Spring 2025, MW 1:10-2:30pm, Location: Park 337
