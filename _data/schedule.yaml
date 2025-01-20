@@ -1,9 +1,9 @@
 - 
   lectures: 
     - 
-      date: 2025-01-22
+      date: 2024-09-04
       title: Lecture 1 <br> Java Review
-      #slides:  "slides/lecture01.pdf"
+      slides:  "slides/lecture01.pdf"
       recording: ~
           #code: "https://github.com/BMC-CS-151/class-examples-f23/tree/main/week1/"
       #readings:
@@ -16,23 +16,23 @@
         - 
           title: "Lab01 -  Exceptions & I/O"
           url: "labs/Lab01.html"
-          deadline: 2025-01-31
+          deadline: 2024-09-13
         -
           title: "HW00 - Arrays & Classes"
           url: "hws/HW00.html"
-          deadline: "2025-01-31"
+          deadline: "2024-09-13"
     - 
-      date: 2025-01-27
+      date: 2024-09-09
       title: Lecture 2 <br> Inheritence <br> OOP 
-      #slides: "slides/lecture02.pdf"
-      #recording: ~
+      slides: "slides/lecture02.pdf"
+      recording: ~
       #readings:
       #  -
       #    title: "Chapter 2, Chapter 3.1, Chapter 7.2"
     - 
-      date: 2025-01-29
+      date: 2024-09-11
       title: Lecture 3 <br> Arrays <br> Generics
-      #slides: "slides/lecture03.pdf"
+      slides: "slides/lecture03.pdf"
       recording: ~
       #readings:
       #  -
@@ -40,52 +40,52 @@
       assignments: 
         - 
           title: "Lab02 -  Inheritance, ExpandableArray"
-          #url: "labs/Lab02.html"
-          deadline: "2025-01-07"
+          url: "labs/Lab02.html"
+          deadline: "2024-09-20"
 
         -
           title: "HW01 - ExpandableArray & Inheritance"
-          #url: "hws/HW01.html"
-          deadline: "2025-01-07"
+          url: "hws/HW01.html"
+          deadline: "2024-09-20"
     - 
-      date: 2025-02-03
+      date: 2024-09-16
       title: Lecture 4 <br> LinkedList
       #readings:
       #  -
       #    title: "Chapter 3"
-      #slides: "slides/lecture04.pdf"
+      slides: "slides/lecture04.pdf"
       recording: ~
 
     - 
-      date: 2025-02-05
+      date: 2024-09-18
       title: Lecture 5 <br> FancyLinkedList
       #readings:
       #  -
       #    title: "Chapter 3"
-      #slides: "slides/lecture05.pdf"
+      slides: "slides/lecture05.pdf"
       recording: ~
       assignments: 
         - 
           title: "Lab03 -  LinkedLists"
-          #url: "labs/Lab03.html"
-          deadline: "2025-02-14"
+          url: "labs/Lab03.html"
+          deadline: "2024-10-04"
         - 
           title: "HW02 -  LinkedLists"
-          deadline: "2025-02-14"
-          #url: "hws/HW02.html"
+          deadline: "2024-10-04"
+          url: "hws/HW02.html"
         
     - 
-      date: 2025-02-10
-      title: Lecture 6 <br> Linked List Review <br> Algorithmic Analysis
-      #slides: "slides/main.pdf"
+      date: 2024-09-23
+      title: Lecture 6 <br> No Class. 
+      slides: "slides/main.pdf"
       recording: ~
       #readings:
       #    -
       #      title: "Chapter 4"
     -
-      date: 2025-02-12
-      title: Lecture 7 <br> Interfaces <br> Object Comparison 
-      #slides: "slides/lecture07.pdf"
+      date: 2024-09-25
+      title: Lecture 7 <br> Interfaces <br> Object Comparison <br> Algorithmic Analysis
+      slides: "slides/lecture07.pdf"
       #readings:
       #  -
       #    title: "Chapter 6.1"
@@ -93,20 +93,20 @@
       assignments: 
         - 
           title: "Lab04 - Interfaces"
-          #url: "labs/Lab04.html"
-          deadline: 2025-10-04
+          url: "labs/Lab04.html"
+          deadline: 2024-10-04
     - 
-      date: 2025-02-17
+      date: 2024-09-30
       title: Lecture 8 <br> Stacks <br> Checkstyle <br> Junit
-      #slides: "slides/lecture08.pdf"
+      slides: "slides/lecture08.pdf"
       #readings:
       #  -
       #    title: "Chapter 6.2-6.3"
       recording: ~
     -
-      date: 2025-02-19
+      date: 2024-10-02
       title: Lecture 9 <br> Implementing Stacks <br> Queues 
-      #slides: "slides/lecture09.pdf"
+      slides: "slides/lecture09.pdf"
       #readings:
       #  -
       #    title: "Chapter 7"
@@ -114,87 +114,100 @@
       assignments: 
         - 
           title: "Lab05 - Stacks"
-          #url: "labs/Lab05.html"
-          deadline: 2025-10-11
+          url: "labs/Lab05.html"
+          deadline: 2024-10-11
         -
-          deadline: 2025-10-11
+          deadline: 2024-10-11
           title: "HW03 -  Stacks & Queues"
-          #url: "hws/HW03.html"
+          url: "hws/HW03.html"
     -
-      date: 2025-02-24
+      date: 2024-10-07
       title: Lecture 10 <br> Dequeues 
-      #slides: "slides/lecture10.pdf"
+      slides: "slides/lecture10.pdf"
       #readings:
       #  -
       #    title: "Chapter 5"
       #recording: ~
       
     - 
-      date: 2025-02-26
+      date: 2024-10-09
       title: Lecture 11 <br> Lists <br> Iterators <br> Binary Search  #Trees
-      #slides: "slides/lecture11.pdf"
+      slides: "slides/lecture11.pdf"
       #readings:
       #  -
       #    title: "Chapter 8"
       assignments: 
         - 
           title: "Lab06 - Iterators & ArrayList"
-          #url: "labs/Lab06.html"
-          deadline: 2025-03-07
+          url: "labs/Lab06.html"
+          deadline: 2024-10-20
         - 
           title: "HW04 - Binary Search"
-          #url: "hws/HW04.html"
-          deadline: 2025-03-07
+          url: "hws/HW04.html"
+          deadline: 2024-10-20
           #deadline: 2023-10-27
           #title: "<s>HW03 -  Stacks & Queues</s>"
           #_url: "labs/Lab00.html"
     - 
-      date: 2025-03-03
-      title: Lecture 14 <br> Midterm Review
-      #slides: "slides/lecture14.pdf"
-      #title: Lecture 12 <br> Trees 
+      date: 2024-10-14
+      title: Fall Break <br> No Class
+    -
+      date: 2024-10-16
+      title: Fall Break <br> No Class
+    -
+      date: 2024-10-21
+      title: Lecture 12 <br> Trees 
       #readings:
       #  -
       #    title: "Chapter 8"
-      #slides: "slides/lecture12.pdf"
+      slides: "slides/lecture12.pdf"
       #recording: ~
     - 
-      date: 2025-03-05
-      title: Midterm
-    -
-      date: 2025-03-10
-      title: Spring Break. No Class.
-    -
-      date: 2025-03-12
-      title: Spring Break. No Class.
-
-  name: "Part I"
--
- lectures:
-    - 
-      date: 2025-03-17
+      date: 2024-10-23
       title: Lecture 13 <br> Tree Traversals  
-      #slides: "slides/lecture13.pdf"
+      slides: "slides/lecture13.pdf"
       #recording: ~
       assignments:
           -
             title: "Lab07 - Binary Trees"
             url: "labs/Lab07.html"
-            deadline: 2025-03-03
+            deadline: 2024-11-03
           -
             title: "HW05 - Binary Trees"
-            deadline: 2025-11-03
-            url: "hws/HW05.html"      #readings:
+            deadline: 2024-11-03
+            url: "hws/HW05.html"
+
+    - 
+      date: 2024-10-28
+      title: Lecture 14 <br> Midterm Review
+      slides: "slides/lecture14.pdf"
+      recording: ~
+      assignments: ~
+    - 
+      date: 2024-10-30
+      title: Midterm 
+      #slides: "slides/lecture14.pdf"
+      recording: ~
+      assignments: 
+        -
+            title: "No Lab"
+        -
+            title: "No Homework"
+      #readings:
       #    - 
       #      title: "Chapter 9 - Priority Queues"
+
+  name: "Part I"
+-
+  lectures:
     - 
-      date: 2025-11-04
+      date: 2024-11-04
       title: Lecture 15 <br> Heaps 
       slides: "slides/lecture15.pdf"
       recording: ~
       assignments: ~
     - 
-      date: 2025-11-06
+      date: 2024-11-06
       title: Lecture 16 <br> Heaps <br> Priority Queues
       slides: "slides/lecture16.pdf"
       recording: ~
@@ -203,19 +216,19 @@
         - 
           title: "Lab08 - Array based Binary Trees & Heaps"
           url: "labs/Lab08.html"
-          deadline: 2025-11-17
+          deadline: 2024-11-17
         - 
           title: "HW06 - Heaps"
-          deadline: 2025-11-17
+          deadline: 2024-11-17
           url: "hws/HW06.html"
     - 
-      date: 2025-11-11
+      date: 2024-11-11
       title: Lecture 17 <br> Maps 
       slides: "slides/lecture17.pdf"
       recording: ~
       readings: ~
     - 
-      date: 2025-11-13
+      date: 2024-11-13
       title: Lecture 18 <br> HashMaps I
       slides: "slides/lecture18.pdf"
       assignments: 
@@ -226,11 +239,11 @@
         -
           title: "No Homework"
     - 
-      date: 2025-11-18
+      date: 2024-11-18
       title: Lecture 19 <br> HashMaps II <br> Handling Collisions
       slides: "slides/lecture19.pdf"
     - 
-      date: 2025-11-20
+      date: 2024-11-20
       title: Lecture 20 <br> HashMaps III <br> 
       slides: "slides/lecture20.pdf"
       #recording: ~
@@ -240,14 +253,14 @@
       assignments: 
         -
             title: "Lab09 - HashMaps"
-            deadline: 2025-12-01
+            deadline: 2024-12-01
             url: "labs/Lab09.html"
         -
-            deadline: 2025-12-01
+            deadline: 2024-12-01
             title: "HW07 - Hash Tables"
             url: "hws/HW07.html"
     - 
-      date: 2025-11-25
+      date: 2024-11-25
       title: Lecture 21 <br> Merge Sort <br> Quick Sort
       slides: "slides/lecture21.pdf"
       #recording: ~
@@ -257,7 +270,7 @@
       #  -
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
     - 
-      date: 2025-11-27
+      date: 2024-11-27
       title: NO CLASS - Happy Thanksgiving! 
       #slides: "slides/lecture22.pdf"
       recording: ~
@@ -268,11 +281,11 @@
         -
           title: "No Lab"
           #url: "labs/Lab10.html"
-          #deadline: 2025-12-06
+          #deadline: 2024-12-06
         -
           title: "No Homework"
     - 
-      date: 2025-12-02
+      date: 2024-12-02
       title: Lecture 23 <br> AVL Trees
       slides: "slides/lecture23.pdf"
       readings: 
@@ -280,7 +293,7 @@
           title: "Chapter 11.2 - 11.6"
       recording: ~
     - 
-      date: 2025-12-04
+      date: 2024-12-04
       title: Lecture 24 <br> Splay Trees 
       slides: "slides/lecture24.pdf"
       recording: ~
@@ -288,21 +301,21 @@
       assignments: 
         - 
           title: "Lab 10 - AVL Trees"
-          deadline: 2025-12-15
+          deadline: 2024-12-15
           url: "labs/Lab10.html"
         -
           title: "HW08 - AVL Trees"
-          deadline: 2025-12-15
+          deadline: 2024-12-15
           url: "hws/HW08.html"
     - 
-      date: 2025-12-09
+      date: 2024-12-09
       title: Lecture 25 <br> Graphs
       slides: "slides/lecture25.pdf"
       readings:
         -
           title: "Chapter 14.1 - Chapter 14.3"
     -
-      date: 2025-12-11
+      date: 2024-12-11
       title: Lecture 26 <br> Midterm Review
       slides: "slides/lecture26.pdf"
       readings: ~
@@ -311,11 +324,11 @@
           - 
             title: "Lab 11 - Graphs"
             url: "labs/Lab11.html"
-            deadline: 2025-12-20
+            deadline: 2024-12-20
           -
             title: "No Homework"
    #- 
-   #   date: 2025-05-01
+   #   date: 2024-05-01
    #   title: Lecture 27 <br> Midterm Review
    #   slides: "slides/lecture27.pdf"
    #   recording: ~
