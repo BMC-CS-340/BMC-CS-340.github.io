@@ -139,7 +139,7 @@
       assignments: 
         - 
           title: "Lab06 - Iterators & ArrayList"
-          url: "labs/Lab06.html"
+          #url: "labs/Lab06.html"
           deadline: 2025-03-07
         - 
           title: "HW04 - Binary Search"
@@ -149,22 +149,19 @@
           #title: "<s>HW03 -  Stacks & Queues</s>"
           #_url: "labs/Lab00.html"
     - 
-      date: 2025-10-14
-      title: Fall Break <br> No Class
-    -
-      date: 2025-10-16
-      title: Fall Break <br> No Class
-    -
-      date: 2025-10-21
-      title: Lecture 12 <br> Trees 
+      date: 2025-03-03
+      title: Lecture 12 <br> Midterm Review 
       #readings:
       #  -
       #    title: "Chapter 8"
-      slides: "slides/lecture12.pdf"
+      #slides: "slides/lecture12.pdf"
       #recording: ~
+    -
+      date: 2025-03-05
+      title: Midterm
     - 
-      date: 2025-10-23
-      title: Lecture 13 <br> Tree Traversals  
+      date: 2025-03-07
+      title: Lecture 15 Tree Traversals
       slides: "slides/lecture13.pdf"
       #recording: ~
       assignments:
@@ -179,7 +176,7 @@
 
     - 
       date: 2025-10-28
-      title: Lecture 14 <br> Midterm Review
+      title: Lecture 14 <br> Trees
       slides: "slides/lecture14.pdf"
       recording: ~
       assignments: ~
