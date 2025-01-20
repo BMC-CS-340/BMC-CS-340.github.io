@@ -177,7 +177,7 @@
       assignments: ~
     -
       date: 2025-03-19
-      title: Lecture 14 Tree Traversals
+      title: Lecture 14 <br> Tree Traversals
       #slides: "slides/lecture13.pdf"
       #recording: ~
       assignments:
@@ -309,7 +309,7 @@
       assignments:
           - 
             title: "Lab 11 - Graphs"
-            url: "labs/Lab11.html"
+            #url: "labs/Lab11.html"
             deadline: 2025-05-04
           -
             title: "No Homework"
