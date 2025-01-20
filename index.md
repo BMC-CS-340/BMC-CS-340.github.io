@@ -59,14 +59,14 @@ Website
 : [https://bmc-cs-151.github.io/](https://bmc-cs-151.github.io/)
 
 Code Samples From Lecture
-: [Github](https://github.com/BMC-CS-151/class-examples-f24)
+: [Github](https://github.com/BMC-CS-151/class-examples-s25)
 
 Discussion Forum
 : [Piazza](https://piazza.com/class/m0jmvenkle36yh)
 
 Time and place
-: Fall 2024, MW 1:10-2:30pm, Location: Park 159
-: Lab M: 2:40-4:00pm, Location: Park 230
+: Spring 2025, MW 1:10-2:30pm, Location: Park 337
+: Lab W: 2:40-4:00pm, Location: Park 231
 
 Prerequisites
 : One of the following courses is required with a grade of 2.0 or better (or permission of
