@@ -13,7 +13,7 @@ active_tab: lectures
 <div class="alert alert-info">
 You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a7bb4120-ce42-471c-871b-b26b01423df9">>watch recordings of the Spring 2025 lecture videos online</a>.
 <br><br>
-You can also access older recordings: <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=46258ebd-f926-4015-95a7-b1e001443a8c">Fall 2024</a>, <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a7bb4120-ce42-471c-871b-b26b01423df9">Spring 2024</a>, and <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a7bb4120-ce42-471c-871b-b26b01423df9">Fall 2023</a>
+You can also access older recordings: <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=46258ebd-f926-4015-95a7-b1e001443a8c">Fall 2024</a>, <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ff498393-6d3d-45d5-a5e5-b0ff014a35bd">Spring 2024</a>
 
 Recordings are saved on Panopto and require a BMC/HC login.
 </div>
