@@ -160,6 +160,16 @@
       date: 2025-03-05
       title: Midterm
     - 
+      date: 2025-03-10
+      title: Spring Break. No Class.
+    -
+      date: 2025-03-12
+      title: Spring Break. No Class.
+
+  name: "Part I"
+-
+  lectures:
+    - 
       date: 2025-03-07
       title: Lecture 15 Tree Traversals
       slides: "slides/lecture13.pdf"
@@ -193,10 +203,6 @@
       #readings:
       #    - 
       #      title: "Chapter 9 - Priority Queues"
-
-  name: "Part I"
--
-  lectures:
     - 
       date: 2025-11-04
       title: Lecture 15 <br> Heaps 
