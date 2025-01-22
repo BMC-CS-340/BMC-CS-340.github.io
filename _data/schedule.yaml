@@ -3,7 +3,7 @@
     - 
       date: 2025-01-22
       title: Lecture 1 <br> Java Review
-      #slides:  "slides/lecture01.pdf"
+      slides:  "slides/lecture01.pdf"
       recording: ~
           #code: "https://github.com/BMC-CS-151/class-examples-f23/tree/main/week1/"
       #readings:
