@@ -67,7 +67,7 @@
       assignments: 
         - 
           title: "Lab03 -  LinkedLists"
-          #url: "labs/Lab03.html"
+          url: "labs/Lab03.html"
           deadline: "2025-02-14"
         - 
           title: "HW02 -  LinkedLists"

@@ -4,7 +4,7 @@ title: "Linked List"
 type: Lab
 number: 03
 active_tab: lab
-release_date: 2023-09-20
+release_date: 2025-02-04
 
 ---
 
