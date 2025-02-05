@@ -62,7 +62,7 @@
       #readings:
       #  -
       #    title: "Chapter 3"
-      #slides: "slides/lecture05.pdf"
+      slides: "slides/lecture05.pdf"
       recording: ~
       assignments: 
         - 
