@@ -76,15 +76,15 @@
         
     - 
       date: 2025-02-10
-      title: Lecture 6 <br> Linked List Review <br> Algorithmic Analysis
-      #slides: "slides/main.pdf"
+      title: Lecture 6 <br> Linked List Review 
+      slides: "slides/main.pdf"
       recording: ~
       #readings:
       #    -
       #      title: "Chapter 4"
     -
       date: 2025-02-12
-      title: Lecture 7 <br> Interfaces <br> Object Comparison 
+      title: Lecture 7 <br> Interfaces <br> Object Comparison <br> Algorithmic Analysis
       #slides: "slides/lecture07.pdf"
       #readings:
       #  -
