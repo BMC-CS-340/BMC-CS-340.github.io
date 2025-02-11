@@ -61,7 +61,7 @@ The main goals for this lab are:
 You will need to have a TA check off on all your exercises.
 If you do not complete the lab during the lab session, you
 must have a TA check off all your exercises during office hours.
-You must get this lab checked off by the due date for HW03.
+You must get this lab checked off by the due date for HW02.
 
 > Notes: in this lab you are not allowed to include any `import` statements unless specified.
 
