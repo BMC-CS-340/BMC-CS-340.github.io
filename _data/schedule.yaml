@@ -68,10 +68,10 @@
         - 
           title: "Lab03 -  LinkedLists"
           url: "labs/Lab03.html"
-          deadline: "2025-02-21"
+          deadline: "2025-02-25"
         - 
           title: "HW02 -  LinkedLists"
-          deadline: "2025-02-21"
+          deadline: "2025-02-25"
           url: "hws/HW02.html"
         
     - 
@@ -115,9 +115,9 @@
         - 
           title: "Lab05 - Stacks"
           #url: "labs/Lab05.html"
-          deadline: 2025-02-28
+          deadline: 2025-03-02
         -
-          deadline: 2025-02-28
+          deadline: 2025-03-02
           title: "HW03 -  Stacks & Queues"
           #url: "hws/HW03.html"
     -
