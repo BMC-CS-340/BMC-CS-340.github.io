@@ -85,7 +85,7 @@
     -
       date: 2025-02-12
       title: Lecture 7 <br> Interfaces <br> Object Comparison <br> Algorithmic Analysis
-      #slides: "slides/lecture07.pdf"
+      slides: "slides/lecture07.pdf"
       #readings:
       #  -
       #    title: "Chapter 6.1"
