@@ -98,7 +98,7 @@
     - 
       date: 2025-02-17
       title: Lecture 8 <br> Stacks <br> Checkstyle <br> Junit
-      #slides: "slides/lecture08.pdf"
+      slides: "slides/lecture08.pdf"
       #readings:
       #  -
       #    title: "Chapter 6.2-6.3"
