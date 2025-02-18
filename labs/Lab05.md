@@ -4,7 +4,7 @@ title: "CheckStyle, Stacks, Unit Testing"
 type: Lab
 number: 05
 active_tab: lab
-release_date: 2024-10-02
+release_date: 2025-02-19
 
 ---
 
