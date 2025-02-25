@@ -132,7 +132,7 @@
     - 
       date: 2025-02-26
       title: Lecture 11 <br> Lists <br> Iterators <br> Binary Search  #Trees
-      #slides: "slides/lecture11.pdf"
+      slides: "slides/lecture11.pdf"
       #readings:
       #  -
       #    title: "Chapter 8"
