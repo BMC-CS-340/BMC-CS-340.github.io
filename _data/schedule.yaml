@@ -139,7 +139,7 @@
       assignments: 
         - 
           title: "Lab06 - Iterators & ArrayList"
-          #url: "labs/Lab06.html"
+          url: "labs/Lab06.html"
           deadline: 2025-03-07
         - 
           title: "HW04 - Binary Search"

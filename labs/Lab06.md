@@ -4,8 +4,8 @@ title: "ArrayLists & Iterators"
 type: Lab
 number: 06
 active_tab: lab
-release_date: 2024-10-09
-due_date: 2024-10-20 23:59:00EDT
+release_date: 2025-02-26
+due_date: 2025-03-07 23:59:00EDT
 ---
 
 <!-- Check whether the assignment is ready to release -->
@@ -49,19 +49,19 @@ You can download the materials for this assignment here:
 
 {{page.type}} {{page.number}}: {{page.title}}
 =============================================================
-Note, you will be submitting this lab to Gradescope. It will be due Thursday Feb 29. 
+Note, you will be submitting this lab to Gradescope. It will be due before spring break (March 7th).
 
 ## Objectives:
 
 The main goals for this lab are:
 1. Get practice with iterators
-1. Understand why iterators are useful
-1. Get more practice using checkstyle, JUnit, and implementing an interface
+2. Understand why iterators are useful
+3. Get more practice using checkstyle, JUnit, and implementing an interface
 
 
 ### Paired Programming rules
 This lab is a **paired programming assignment.** What exactly does that mean? 
-You will be working in pairs on the CS lab computers. Each pair will be working on one computer. One person will be the **driver** and the other person
+You will be optionally working in pairs on the CS lab computers. Each pair will be working on one computer. One person will be the **driver** and the other person
  will be the **navigator**. Here is the rule: the **driver** controlls the lab computer, but the **driver** can only type what the **navigator** tells 
 them to type. For this to work well, each pair should be constantly talking 
 among themselves. After each problem, you will switch roles, the navigator will become the driver and the driver will become the navigator.
