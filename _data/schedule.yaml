@@ -143,7 +143,7 @@
           deadline: 2025-03-07
         - 
           title: "HW04 - Binary Search"
-          #url: "hws/HW04.html"
+          url: "hws/HW04.html"
           deadline: 2025-03-07
           #deadline: 2023-10-27
           #title: "<s>HW03 -  Stacks & Queues</s>"
