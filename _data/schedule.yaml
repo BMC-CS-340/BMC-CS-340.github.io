@@ -154,7 +154,7 @@
       #readings:
       #  -
       #    title: "Chapter 8"
-      #slides: "slides/lecture12.pdf"
+      slides: "slides/lecture12.pdf"
       #recording: ~
     -
       date: 2025-03-05
