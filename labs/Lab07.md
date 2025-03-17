@@ -4,8 +4,7 @@ title: "Binary Trees"
 type: Lab
 number: 07
 active_tab: lab
-release_date: 2025-03-28
-
+release_date: 2025-03-17
 ---
 
 <!-- Check whether the assignment is ready to release -->
