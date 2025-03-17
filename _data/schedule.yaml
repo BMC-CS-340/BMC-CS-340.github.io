@@ -183,12 +183,12 @@
       assignments:
           -
             title: "Lab07 - Binary Trees"
-            #url: "labs/Lab07.html"
+            url: "labs/Lab07.html"
             deadline: 2025-03-28
           -
             title: "HW05 - Binary Trees"
             deadline: 2025-03-28
-            #url: "hws/HW05.html"
+            url: "hws/HW05.html"
     - 
       date: 2025-03-24
       title: Lecture 15 <br> Heaps 
