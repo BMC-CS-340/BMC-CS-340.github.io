@@ -204,12 +204,12 @@
       assignments: 
         - 
           title: "Lab08 - Array based Binary Trees & Heaps"
-          #url: "labs/Lab08.html"
+          url: "labs/Lab08.html"
           deadline: 2025-04-04
         - 
           title: "HW06 - Heaps"
           deadline: 2025-04-04
-          #url: "hws/HW06.html"
+          url: "hws/HW06.html"
     - 
       date: 2025-03-31
       title: Lecture 17 <br> Maps 

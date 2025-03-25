@@ -4,7 +4,7 @@ title: "Array based Binary Trees & Heaps"
 type: Lab
 number: 08
 active_tab: lab
-release_date: 2024-03-19
+release_date: 2025-03-26
 
 ---
 
