@@ -219,7 +219,7 @@
     - 
       date: 2025-04-02
       title: Lecture 18 <br> Maps <br> HashMaps
-      #slides: "slides/lecture18.pdf"
+      slides: "slides/lecture18.pdf"
       assignments: 
         - 
           #deadline: 2023-12-05
