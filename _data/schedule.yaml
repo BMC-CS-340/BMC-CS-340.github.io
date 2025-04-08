@@ -243,11 +243,11 @@
         -
             title: "Lab09 - HashMaps"
             deadline: 2025-04-18
-            #url: "labs/Lab09.html"
+            url: "labs/Lab09.html"
         -
             deadline: 2025-04-18
             title: "HW07 - Hash Tables"
-            #url: "hws/HW07.html"
+            url: "hws/HW07.html"
     - 
       date: 2025-04-14
       title: Lecture 21 <br> Merge Sort <br> Quick Sort
