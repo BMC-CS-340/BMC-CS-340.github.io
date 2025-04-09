@@ -91,7 +91,7 @@ probes. Number of probes is the number of times
 an open-addressing hashtable needs to try
 before finding the correct array location to either insert or find 
 a key-value pair. With no
-collision, the average and max number of probes per key should be 1.
+collision, the average and max number of probes per key should be 0.
 Print these values after all insertions are completed. 
 Note that, to be able to compute these values, you will need to
 update `ProbeHashMap` class. The lines of the output should print the hash table statistics in
