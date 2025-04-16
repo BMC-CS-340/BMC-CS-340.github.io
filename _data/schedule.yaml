@@ -260,8 +260,8 @@
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
     - 
       date: 2025-04-16
-      title: Lecture 22 <br> Sorting Review
-      #slides: "slides/lecture22.pdf"
+      title: Lecture 22 <br> Quick Sort <br> Tree Rotations
+      slides: "slides/lecture22.pdf"
       recording: ~
       #readings:
       #  -
@@ -281,7 +281,7 @@
       recording: ~
     - 
       date: 2025-04-23
-      title: Lecture 24 <br> Splay Trees 
+      title: Lecture 24 <br> Graphs
       #slides: "slides/lecture24.pdf"
       recording: ~
       assignments: 
@@ -295,14 +295,14 @@
           #url: "hws/HW08.html"
     - 
       date: 2025-04-28
-      title: Lecture 25 <br> Graphs
+      title: Lecture 25 <br> Final Review
       #slides: "slides/lecture25.pdf"
       readings:
         -
           title: "Chapter 14.1 - Chapter 14.3"
     -
       date: 2025-04-30
-      title: Lecture 26 <br> Midterm Review
+      title: Lecture 26 <br> No Class.
       #slides: "slides/lecture26.pdf"
       readings: ~
       recording: ~
