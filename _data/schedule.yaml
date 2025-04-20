@@ -275,13 +275,13 @@
           title: "No Homework"
     - 
       date: 2025-04-21
-      title: Lecture 23 <br> AVL Trees
+      title: Lecture 23 <br> No Class
       #slides: "slides/lecture23.pdf"
       readings: ~
       recording: ~
     - 
       date: 2025-04-23
-      title: Lecture 24 <br> Graphs
+      title: Lecture 24 <br> AVL Trees 
       #slides: "slides/lecture24.pdf"
       recording: ~
       assignments: 
@@ -295,7 +295,7 @@
           #url: "hws/HW08.html"
     - 
       date: 2025-04-28
-      title: Lecture 25 <br> Final Review
+      title: Lecture 25  Graphs <br> Final Review
       #slides: "slides/lecture25.pdf"
       readings:
         -
