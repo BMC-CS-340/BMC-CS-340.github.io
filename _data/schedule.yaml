@@ -282,7 +282,7 @@
     - 
       date: 2025-04-23
       title: Lecture 24 <br> AVL Trees 
-      #slides: "slides/lecture24.pdf"
+      slides: "slides/lecture24.pdf"
       recording: ~
       assignments: 
         - 
