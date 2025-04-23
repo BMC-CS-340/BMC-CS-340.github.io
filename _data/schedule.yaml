@@ -288,11 +288,11 @@
         - 
           title: "Lab 10 - AVL Trees"
           deadline: 2025-05-02
-          #url: "labs/Lab10.html"
+          url: "labs/Lab10.html"
         -
           title: "HW08 - AVL Trees"
           deadline: 2025-05-02
-          #url: "hws/HW08.html"
+          url: "hws/HW08.html"
     - 
       date: 2025-04-28
       title: Lecture 25  Graphs <br> Final Review
