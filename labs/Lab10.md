@@ -97,7 +97,7 @@ Modify/Override `toStringInOrder` so that it uses the above `toString` of `Node`
 and returns a traversal string listing the elements with `height` attached.
 
 ### 6
-Implement `public Node rebalance()` with associated helpers (`public Node rotateLeft(Node n)`, `public Node rotateRight(Node n)`, `public Node rotateLeftRight(Node n)`,
+Implement `public Node rebalance(Node n)` with associated helpers (`public Node rotateLeft(Node n)`, `public Node rotateRight(Node n)`, `public Node rotateLeftRight(Node n)`,
 `public Node rotateRightLeft(Node n)`) and call appropriately on insertion. `rotateLeftRight` and `rotateRightLeft` should take the root that we want to perform the second rotation over. 
 
 ### 7 - Testing
