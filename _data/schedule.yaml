@@ -296,7 +296,7 @@
     - 
       date: 2025-04-28
       title: Lecture 25  Graphs <br> Final Review
-      #slides: "slides/lecture25.pdf"
+      slides: "slides/lecture25.pdf"
       readings:
         -
           title: "Chapter 14.1 - Chapter 14.3"
