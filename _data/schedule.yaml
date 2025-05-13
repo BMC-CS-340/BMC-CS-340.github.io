@@ -303,13 +303,13 @@
     -
       date: 2025-04-30
       title: Lecture 26 <br> No Class.
-      #slides: "slides/lecture26.pdf"
+      slides: "slides/lecture26.pdf"
       readings: ~
       recording: ~
       assignments:
           - 
             title: "Lab 11 - Graphs"
-            #url: "labs/Lab11.html"
+            url: "labs/Lab11.html"
             deadline: 2025-05-04
           -
             title: "No Homework"
