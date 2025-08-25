@@ -157,7 +157,7 @@
     - 
       date: 2025-10-20
       title: Lecture 12 <br> Midterm Review 
-      slides: "slides/lecture12.pdf"
+      #slides: "slides/lecture12.pdf"
       #recording: ~
     -
       date: 2025-10-22
