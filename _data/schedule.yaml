@@ -150,21 +150,18 @@
           #_url: "labs/Lab00.html"
     - 
       date: 2025-10-13
+      title: Fall Break No Class
+    -
+      date: 2025-10-15
+      title: Fall Break No Class
+    - 
+      date: 2025-10-20
       title: Lecture 12 <br> Midterm Review 
-      #readings:
-      #  -
-      #    title: "Chapter 8"
       slides: "slides/lecture12.pdf"
       #recording: ~
     -
-      date: 2025-03-05
-      title: Midterm
-    - 
-      date: 2025-03-10
-      title: Spring Break. No Class.
-    -
-      date: 2025-03-12
-      title: Spring Break. No Class.
+      date: 2025-10-22
+      title: Lecture 12 <br> Midterm 
 
   name: "Part I"
 -
