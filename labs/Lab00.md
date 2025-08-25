@@ -61,8 +61,8 @@ The main goals for this lab are:
 Make sure to write down your answers for each **Exercise** below. In future labs, the TAs or Instructor
 will check your answers. Whenever you see **TODO**, that means there is an action item for you to complete.
 
-### CS113 Fall '23 Students
-For students who took CS113 in Fall '23, you have already completed this lab last semester
+### CS113 Spring '25 Students
+For students who took CS113 in previous semesters, you have already completed this lab last semester
 However, we recommend you complete this lab as a refresher. At the minimum, please create a
 new `cs151` directory on the goldengate machines 
 and set it up as described below.
