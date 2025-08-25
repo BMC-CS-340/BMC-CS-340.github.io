@@ -65,8 +65,8 @@ Discussion Forum
 : [Piazza](https://piazza.com/class/m65gaefia22l0)
 
 Time and place
-: Spring 2025, MW 1:10-2:30pm, Location: Park 337
-: Lab W: 2:40-4:00pm, Location: Park 231
+: Fall 2025, MW 11:40-1:00pm, Location: Park 337
+: Lab W: 2:40-4:00pm, Location: Park 230
 
 Prerequisites
 : One of the following courses is required with a grade of 2.0 or better (or permission of
