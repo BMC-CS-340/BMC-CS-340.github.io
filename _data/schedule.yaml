@@ -129,7 +129,9 @@
       #  -
       #    title: "Chapter 5"
       #recording: ~
-      
+      assignments:
+        -
+          title: "No Homework"
     - 
       date: 2025-10-08
       title: Midterm 
