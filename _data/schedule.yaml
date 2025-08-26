@@ -2,57 +2,46 @@
   lectures: 
     - 
       date: 2025-09-03
-      title: Lecture 1 <br> Java Review
+      title: Lecture 1 <br> Introduction
       #slides:  "slides/lecture01.pdf"
       recording: ~
           #code: "https://github.com/BMC-CS-151/class-examples-f23/tree/main/week1/"
-      #readings:
-      #  -
-      #    title: "Chapter 1"
-      assignments: 
-        - 
-          title: "Lab00 - Command Line, Unix, Vim"
-          url: "labs/Lab00.html"
-        - 
-          title: "Lab01 -  Exceptions & I/O"
-          url: "labs/Lab01.html"
-          deadline: 2025-09-12
+      readings:
         -
-          title: "HW00 - Arrays & Classes"
-          url: "hws/HW00.html"
-          deadline: "2025-09-12"
+          title: "Chapters 1 and 2"
+      assignments: 
+        -
+          title: "HW01 - Arrays & Classes"
+          url: "hws/HW01.pdf"
+          deadline: "2025-09-15"
     - 
+      date: 2025-09-04
+      title: No Lab.
+    -
       date: 2025-09-08
-      title: Lecture 2 <br> Inheritence <br> OOP 
+      title: Lecture 2 <br> Basics of Algorithms Analysis 
       #slides: "slides/lecture02.pdf"
       recording: ~
-      #readings:
-      #  -
-      #    title: "Chapter 2, Chapter 3.1, Chapter 7.2"
+      readings:
+        -
+          title: "Chapters 2 and 3"
     - 
       date: 2025-09-10
-      title: Lecture 3 <br> Arrays <br> Generics
+      title: Lecture 3 <br> Basics of Algorithms Analysis <br> Graphs
       #slides: "slides/lecture03.pdf"
       recording: ~
-      #readings:
-      #  -
-      #    title: "Chapter 2.5"
-      assignments: 
-        - 
-          title: "Lab02 -  Inheritance, ExpandableArray"
-          #url: "labs/Lab02.html"
-          deadline: "2025-09-19"
-
+      readings:
         -
-          title: "HW01 - ExpandableArray & Inheritance"
-          #url: "hws/HW01.html"
-          deadline: "2025-09-19"
+          title: "Chapters 2 and 3"
+    -
+      date: 2025-09-11
+      title: Lab 1 - Max Bipartite Matching
     - 
       date: 2025-09-15
-      title: Lecture 4 <br> LinkedList
-      #readings:
-      #  -
-      #    title: "Chapter 3"
+      title: Lecture 4 <br> Greedy Algorithms
+      readings:
+        -
+          title: "Chapter 4"
       #slides: "slides/lecture04.pdf"
       recording: ~
 
