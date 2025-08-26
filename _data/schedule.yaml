@@ -167,6 +167,10 @@
       title: Lecture 11 <br> Dynamic Programming
       #slides: "slides/lecture12.pdf"
       #recording: ~
+      assignments:
+        -
+          title: "HW6 - Dynamic Programming"
+          deadline: "2025-10-27"
     -
       date: 2025-10-22
       title: Lecture 12 <br> Dynamic Programming 
@@ -178,21 +182,15 @@
       title: Lecture 13 <br> DP and Network Flow
       #slides: "slides/lecture13.pdf"
       recording: ~
-      assignments: ~
+      assignments: 
+        -
+          title: "HW7 - Network Flow"
+          deadline: "2025-11-03"
     -
       date: 2025-10-29
       title: Lecture 14 <br> Network Flow
       #slides: "slides/lecture14.pdf"
       #recording: ~
-      assignments:
-          -
-            title: "Lab07 - Binary Trees"
-            #url: "labs/Lab07.html"
-            deadline: 2025-11-07
-          -
-            title: "HW05 - Binary Trees"
-            deadline: 2025-11-07
-            #url: "hws/HW05.html"
     -
       date: 2025-10-30
       title: Lab 6
@@ -201,38 +199,31 @@
       title: Lecture 15 <br> Intro to NPC <br> Intractability 
       #slides: "slides/lecture15.pdf"
       recording: ~
-      assignments: ~
+      assignments: 
+        -
+          title: "HW8 - Network Flow II"
     - 
       date: 2025-11-05
       title: Lecture 16 <br> Intro to NPC <br> Intractability 
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings: ~
-      assignments: 
-        - 
-          title: "Lab08 - Array based Binary Trees & Heaps"
-          #url: "labs/Lab08.html"
-          deadline: 2025-11-14
-        - 
-          title: "HW06 - Heaps"
-          deadline: 2025-11-14
-          #url: "hws/HW06.html"
     -
       date: 2025-11-06
       title: Lab 7
     - 
       date: 2025-11-10
       title: Lecture 17 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
-      #slides: "slides/lecture17.pdf"
       recording: ~
       readings: ~
+      assignments:
+        -
+          title: "HW9 - NPC"
+          deadline: 2025-11-17
     - 
       date: 2025-11-12
       title: Lecture 18 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
       #slides: "slides/lecture18.pdf"
-      assignments: 
-        - 
-          title: "No Homework"
     -
       date: 2025-11-13
       title: Lab 8
@@ -256,6 +247,10 @@
       #    title: "Chapter 10.3 - Sorted Maps"
       #  -
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
+      assignments:
+        -
+          title: "HW10 - Approximation Algorithms"
+          deadline: 2025-12-01
     - 
       date: 2025-11-26
       title: Lecture 22 <br> Approximation Algorithms
@@ -264,9 +259,6 @@
       #readings:
       #  -
       #    title: "Chapter 11.2 - 11.6"
-      assignments: 
-        -
-          title: "No Homework"
     -
       date: 2025-11-27
       title: Lab 9
@@ -281,6 +273,9 @@
       title: Lecture 24 <br> Final Exam Review
       #slides: "slides/lecture24.pdf"
       recording: ~
+      assignments:
+        -
+          title: "No Homework"
     -
       date: 2025-12-04
       title: Lab 10
