@@ -70,13 +70,6 @@ Course Readings
 : Required: Algorithm Design by Jon Kleinberg and Eva Tardos
 : Each lecture has an optional accompanying chapter/section of the textbook.
 
-Grading
-* Homeworks: 15%
-* Project: 15%
-* Labs: 5%
-* Midterm: 25%
-* Final: 40% 
-
 Learning Goals
 : Students who complete the course will have demonstrated the ability to do the following:
 : • Analyze the asymptotic performance of algorithms.
@@ -86,6 +79,13 @@ Learning Goals
 Programming, major graph algorithms and approximation algorithms) and methods
 of analysis.
 : • Synthesize efficient algorithms in common design situations.
+
+**Grading**
+* Homeworks: 15%
+* Project: 15%
+* Labs: 5%
+* Midterm: 25%
+* Final: 40% 
 
 <!---
 Late day policy
