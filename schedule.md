@@ -93,6 +93,19 @@ Make sure you are registered for the course [Gradescope](https://www.gradescope.
   	    {% endif %}
 
         </td>
+
+        <td>
+          {% if lecture.readings %} 
+            {% for reading in lecture.readings %}
+                {% if reading.url %}
+               		<a href="{{ reading.url }}">{{ reading.title }}</a>
+                {% else %}   {{ reading.title }}
+		{% endif %}
+            <br />
+            {% endfor %}
+          {% endif %}
+        </td>
+
         <td>
           {% if lecture.assignments %} 
             {% for assignment in lecture.assignments %}
