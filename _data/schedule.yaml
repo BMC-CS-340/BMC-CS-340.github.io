@@ -98,9 +98,12 @@
     -
       date: 2025-09-25
       title: Lab 3
+      assignments:
+        - 
+          title: "Lab3 - Dijkstra's"
     - 
       date: 2025-09-29
-      title: Lecture 8 <br> ? 
+      title: Lecture 8 <br> Run Times Worksheet
       #slides: "slides/lecture08.pdf"
       #readings:
       #  -
@@ -121,6 +124,9 @@
     -
       date: 2025-10-02
       title: Lab 4
+      assignments:
+        -
+          title: "Lab 4 - MST"
     -
       date: 2025-10-06
       title: Lecture 10 <br> Midterm Review 
