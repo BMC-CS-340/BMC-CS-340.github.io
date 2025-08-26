@@ -68,10 +68,10 @@
         - 
           title: "Lab03 -  LinkedLists"
           #url: "labs/Lab03.html"
-          deadline: "2025-02-25"
+          deadline: "2025-10-03"
         - 
           title: "HW02 -  LinkedLists"
-          deadline: "2025-02-25"
+          deadline: "2025-10-03"
           #url: "hws/HW02.html"
         
     - 
@@ -94,7 +94,7 @@
         - 
           title: "Lab04 - Interfaces"
           #url: "labs/Lab04.html"
-          deadline: 2025-02-25
+          deadline: 2025-10-03
     - 
       date: 2025-09-29
       title: Lecture 8 <br> Stacks <br> Checkstyle <br> Junit
@@ -115,9 +115,9 @@
         - 
           title: "Lab05 - Stacks"
           #url: "labs/Lab05.html"
-          deadline: 2025-03-02
+          deadline: 2025-10-10
         -
-          deadline: 2025-03-02
+          deadline: 2025-10-10
           title: "HW03 -  Stacks & Queues"
           #url: "hws/HW03.html"
     -
@@ -140,11 +140,11 @@
         - 
           title: "Lab06 - Iterators & ArrayList"
           #url: "labs/Lab06.html"
-          deadline: 2025-03-07
+          deadline: 2025-10-19
         - 
           title: "HW04 - Binary Search"
           #url: "hws/HW04.html"
-          deadline: 2025-03-07
+          deadline: 2025-10-19
           #deadline: 2023-10-27
           #title: "<s>HW03 -  Stacks & Queues</s>"
           #_url: "labs/Lab00.html"
