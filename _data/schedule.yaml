@@ -49,6 +49,11 @@
           title: "Chapter 4"
       #slides: "slides/lecture04.pdf"
       recording: ~
+      assignments:
+        -
+          title: "HW02 - Basics of Algorithms Analysis"
+          #url: "labs/Lab1.pdf"
+          deadline: 2025-09-22
 
     - 
       date: 2025-09-17
@@ -60,12 +65,8 @@
       recording: ~
       assignments: 
         - 
-          title: "HW02 - Basics of Algorithms Analysis"
-          #url: "labs/Lab03.html"
-          deadline: "2025-10-03"
-        - 
           title: "Project"
-          deadline: "week13?"
+          deadline: "2025-11-17"
           #url: "hws/HW02.html"
     -
       date: 2025-09-18
