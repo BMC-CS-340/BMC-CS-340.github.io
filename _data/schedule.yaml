@@ -137,18 +137,6 @@
       #readings:
       #  -
       #    title: "Chapter 8"
-      assignments: 
-        - 
-          title: "Lab06 - Iterators & ArrayList"
-          #url: "labs/Lab06.html"
-          deadline: 2025-10-19
-        - 
-          title: "HW04 - Binary Search"
-          #url: "hws/HW04.html"
-          deadline: 2025-10-19
-          #deadline: 2023-10-27
-          #title: "<s>HW03 -  Stacks & Queues</s>"
-          #_url: "labs/Lab00.html"
     -
       date: 2025-10-09
       title: No Lab.
