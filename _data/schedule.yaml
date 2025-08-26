@@ -192,11 +192,17 @@
         -
           title: "HW7 - Network Flow"
           deadline: "2025-11-03"
+      readings:
+        -
+          title: "Chapter 7"
     -
       date: 2025-10-29
       title: Lecture 14 <br> Network Flow
       #slides: "slides/lecture14.pdf"
       #recording: ~
+      readings:
+        -
+          title: "Chapter 7"
     -
       date: 2025-10-30
       title: Lab 6
@@ -208,12 +214,17 @@
       assignments: 
         -
           title: "HW8 - Network Flow II"
+      readings:
+        -
+          title: "Chapter 8"
     - 
       date: 2025-11-05
       title: Lecture 16 <br> Intro to NPC <br> Intractability 
       #slides: "slides/lecture16.pdf"
       recording: ~
-      readings: ~
+      readings: 
+        -
+          title: "Chapter 8"
     -
       date: 2025-11-06
       title: Lab 7
@@ -221,7 +232,9 @@
       date: 2025-11-10
       title: Lecture 17 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
       recording: ~
-      readings: ~
+      readings: 
+        -
+          title: "Chapter 11.1-11.5"
       assignments:
         -
           title: "HW9 - NPC"
@@ -230,6 +243,9 @@
       date: 2025-11-12
       title: Lecture 18 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
       #slides: "slides/lecture18.pdf"
+      readings:
+        -
+          title: "Chapter 11.1-11.5"
     -
       date: 2025-11-13
       title: Lab 8
@@ -248,9 +264,9 @@
       title: Lecture 21 <br> Approximation Algorithms
       #slides: "slides/lecture21.pdf"
       #recording: ~
-      #readings:
-      #  -
-      #    title: "Chapter 10.3 - Sorted Maps"
+      readings:
+        -
+          title: "Chapter 13"
       #  -
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
       assignments:
@@ -262,9 +278,9 @@
       title: Lecture 22 <br> Approximation Algorithms
       #slides: "slides/lecture22.pdf"
       recording: ~
-      #readings:
-      #  -
-      #    title: "Chapter 11.2 - 11.6"
+      readings:
+        -
+          title: "Chapter 13"
     -
       date: 2025-11-27
       title: Lab 9
