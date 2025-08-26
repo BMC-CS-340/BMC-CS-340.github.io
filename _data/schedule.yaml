@@ -296,14 +296,14 @@
         -
           title: "Chapter 13"
       recording: ~
+      assignments:
+        -
+          title: "No Homework"
     - 
       date: 2025-12-03
       title: Lecture 24 <br> Final Exam Review
       #slides: "slides/lecture24.pdf"
       recording: ~
-      assignments:
-        -
-          title: "No Homework"
     -
       date: 2025-12-04
       title: Lab 10
@@ -311,15 +311,15 @@
       date: 2025-12-08
       title: Lecture 25  <br> Final Exam Review  
       #slides: "slides/lecture25.pdf"
+      assignments:
+        -
+          title: "No Homework"
     -
       date: 2025-12-10
       title: Lecture 26 <br> Final Exam
       #slides: "slides/lecture26.pdf"
       readings: ~
       recording: ~
-      assignments:
-          -
-            title: "No Homework"
     -
       date: 2025-12-11
       title: No Lab.
