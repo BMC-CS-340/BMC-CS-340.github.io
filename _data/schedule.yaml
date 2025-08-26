@@ -95,6 +95,9 @@
         -
           title: "Chapter 5"
       #recording: ~
+    -
+      date: 2025-09-25
+      title: Lab 3
     - 
       date: 2025-09-29
       title: Lecture 8 <br> ? 
@@ -115,15 +118,9 @@
       #  -
       #    title: "Chapter 7"
       #recording: ~
-      assignments: 
-        - 
-          title: "Lab05 - Stacks"
-          #url: "labs/Lab05.html"
-          deadline: 2025-10-10
-        -
-          deadline: 2025-10-10
-          title: "HW03 -  Stacks & Queues"
-          #url: "hws/HW03.html"
+    -
+      date: 2025-10-02
+      title: Lab 4
     -
       date: 2025-10-06
       title: Lecture 10 <br> Midterm Review 
