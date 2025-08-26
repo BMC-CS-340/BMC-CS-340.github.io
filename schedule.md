@@ -36,7 +36,7 @@ Please complete <a href="{{ site.url }}{{ site.baseurl }}/labs/Lab00.html">Lab00
         <th>Date</th> 
         <th>Topic</th>
         <!--<th>Recordings</th>-->
-        <!--<th>Reading</th>-->
+        <th>Reading</th>
         <th>Assignment</th>
       </tr>
     </thead>
