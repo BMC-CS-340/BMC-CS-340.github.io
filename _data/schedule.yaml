@@ -52,46 +52,52 @@
 
     - 
       date: 2025-09-17
-      title: Lecture 5 <br> FancyLinkedList
-      #readings:
-      #  -
-      #    title: "Chapter 3"
+      title: Lecture 5 <br> Greedy Algorithms
+      readings:
+        -
+          title: "Chapter 4"
       #slides: "slides/lecture05.pdf"
       recording: ~
       assignments: 
         - 
-          title: "Lab03 -  LinkedLists"
+          title: "HW02 - Basics of Algorithms Analysis"
           #url: "labs/Lab03.html"
           deadline: "2025-10-03"
         - 
-          title: "HW02 -  LinkedLists"
-          deadline: "2025-10-03"
+          title: "Project"
+          deadline: "week13?"
           #url: "hws/HW02.html"
-        
+    -
+      date: 2025-09-18
+      title: Lab 2
+      assignments: 
+        -
+          title: "Lab 2 - Asymptotic Notion" 
+          #url: "labs/Lab2.pdf"
     - 
       date: 2025-09-22
-      title: Lecture 6 <br> Linked List Review 
+      title: Lecture 6 <br> Divide and Conquer
       #slides: "slides/lecture06.pdf"
       recording: ~
-      #readings:
-      #    -
-      #      title: "Chapter 4"
+      readings:
+          -
+            title: "Chapter 5"
     -
       date: 2025-09-24
-      title: Lecture 7 <br> Interfaces <br> Object Comparison <br> Algorithmic Analysis
+      title: Lecture 7 <br> Divide and Conquer
       #slides: "slides/lecture07.pdf"
-      #readings:
-      #  -
-      #    title: "Chapter 6.1"
+      readings:
+        -
+          title: "Chapter 5"
       #recording: ~
       assignments: 
         - 
-          title: "Lab04 - Interfaces"
+          title: "HW4 - ??"
           #url: "labs/Lab04.html"
-          deadline: 2025-10-03
+          deadline: 2025-10-29
     - 
       date: 2025-09-29
-      title: Lecture 8 <br> Stacks <br> Checkstyle <br> Junit
+      title: Lecture 8 <br> ? 
       #slides: "slides/lecture08.pdf"
       #readings:
       #  -
@@ -99,7 +105,7 @@
       recording: ~
     -
       date: 2025-10-01
-      title: Lecture 9 <br> Implementing Stacks <br> Queues 
+      title: Lecture 9 <br> ?
       #slides: "slides/lecture09.pdf"
       #readings:
       #  -
@@ -116,7 +122,7 @@
           #url: "hws/HW03.html"
     -
       date: 2025-10-06
-      title: Lecture 10 <br> Implementing Queues <br> Dequeues 
+      title: Lecture 10 <br> Midterm Review 
       #slides: "slides/lecture10.pdf"
       #readings:
       #  -
@@ -125,7 +131,7 @@
       
     - 
       date: 2025-10-08
-      title: Lecture 11 <br> Lists <br> Iterators <br> Binary Search  #Trees
+      title: Midterm 
       #slides: "slides/lecture11.pdf"
       #readings:
       #  -
@@ -142,24 +148,30 @@
           #deadline: 2023-10-27
           #title: "<s>HW03 -  Stacks & Queues</s>"
           #_url: "labs/Lab00.html"
+    -
+      date: 2025-10-09
+      title: No Lab.
     - 
       date: 2025-10-13
       title: Fall Break No Class
     -
       date: 2025-10-15
       title: Fall Break No Class
+    
+  name: "Part I"
+-
+  lectures:
     - 
       date: 2025-10-20
-      title: Lecture 12 <br> Midterm Review 
+      title: Lecture 11 <br> Dynamic Programming
       #slides: "slides/lecture12.pdf"
       #recording: ~
     -
       date: 2025-10-22
-      title: Midterm 
-
-  name: "Part I"
--
-  lectures:
+      title: Lecture 12 <br> Dynamic Programming 
+    - 
+      date: 2025-10-23
+      title: Lab xx
     - 
       date: 2025-10-27
       title: Lecture 13 <br> Trees
