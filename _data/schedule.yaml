@@ -83,6 +83,10 @@
       readings:
           -
             title: "Chapter 5"
+      assignments:
+        -
+          title: "HW03 - Greedy Algorithms"
+          deadline: "2025-09-29"
     -
       date: 2025-09-24
       title: Lecture 7 <br> Divide and Conquer
@@ -91,11 +95,6 @@
         -
           title: "Chapter 5"
       #recording: ~
-      assignments: 
-        - 
-          title: "HW4 - ??"
-          #url: "labs/Lab04.html"
-          deadline: 2025-10-29
     - 
       date: 2025-09-29
       title: Lecture 8 <br> ? 
@@ -104,6 +103,10 @@
       #  -
       #    title: "Chapter 6.2-6.3"
       recording: ~
+      assignments:
+        -
+          title: "HW04 - Divide and Conquer"
+          deadline: "2025-10-06"
     -
       date: 2025-10-01
       title: Lecture 9 <br> ?
