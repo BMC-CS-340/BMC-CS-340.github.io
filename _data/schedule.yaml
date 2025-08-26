@@ -267,7 +267,7 @@
       #recording: ~
       readings:
         -
-          title: "Chapter 13"
+          title: "Chapter 11.6 - 11.8"
       #  -
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
       assignments:
@@ -281,7 +281,7 @@
       recording: ~
       readings:
         -
-          title: "Chapter 13"
+          title: "Chapter 11.6 - 11.8"
     -
       date: 2025-11-27
       title: Lab 9
@@ -289,7 +289,9 @@
       date: 2025-12-01
       title: Lecture 23 <br> Randomized Algorithms
       #slides: "slides/lecture23.pdf"
-      readings: ~
+      readings: 
+        -
+          title: "Chapter 13"
       recording: ~
     - 
       date: 2025-12-03
@@ -306,9 +308,6 @@
       date: 2025-12-08
       title: Lecture 25  <br> Final Exam Review  
       #slides: "slides/lecture25.pdf"
-      readings:
-        -
-          title: "Chapter 14.1 - Chapter 14.3"
     -
       date: 2025-12-10
       title: Lecture 26 <br> Final Exam
