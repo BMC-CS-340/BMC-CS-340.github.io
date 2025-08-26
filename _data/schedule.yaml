@@ -254,6 +254,9 @@
       date: 2025-11-17
       title: Lecture 19 <br> Project Presentations  
       #slides: "slides/lecture19.pdf"
+      assignments:
+        -
+          title: "No Homework"
     - 
       date: 2025-11-19
       title: Lecture 20 <br> Project Presentations  
