@@ -11,10 +11,8 @@ active_tab: lectures
 
 
 <div class="alert alert-info">
-You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=e0dcce7b-f28b-4a9a-81f2-b345003706c7">>watch recordings of the Fall 2025 lecture videos online</a>.
-<br><br>
-You can also access older recordings: <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=46258ebd-f926-4015-95a7-b1e001443a8c">Fall 2024</a>, <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ff498393-6d3d-45d5-a5e5-b0ff014a35bd">Spring 2024</a>, <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a7bb4120-ce42-471c-871b-b26b01423df9">Spring 2025</a>
-
+You can <a href="https://brynmawr.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=4f513ce1-cb2b-45be-b814-b34501265de4">>watch recordings of the lecture videos online</a>.
+<br>
 Recordings are saved on Panopto and require a BMC/HC login.
 </div>
 
@@ -22,7 +20,7 @@ The lecture schedule will be updated as the term progresses.
 
 ### Pre-course
 
-Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/brynmawr/spring2025/cs151).
+Make sure you are registered for the course [Gradescope](https://www.gradescope.com/) and [Piazza](https://piazza.com/brynmawr/spring2025/cs340).
 
 Please complete <a href="{{ site.url }}{{ site.baseurl }}/labs/Lab00.html">Lab00</a> before the first lab meeting.
 
