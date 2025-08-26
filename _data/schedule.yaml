@@ -167,6 +167,9 @@
       title: Lecture 11 <br> Dynamic Programming
       #slides: "slides/lecture12.pdf"
       #recording: ~
+      readings:
+        - 
+          title: "Chapter 6"
       assignments:
         -
           title: "HW6 - Dynamic Programming"
@@ -174,6 +177,9 @@
     -
       date: 2025-10-22
       title: Lecture 12 <br> Dynamic Programming 
+      readings:
+        -
+          title: "Chapter 6"
     - 
       date: 2025-10-23
       title: Lab 5
