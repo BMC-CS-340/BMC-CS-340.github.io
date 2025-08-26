@@ -137,7 +137,8 @@
       #recording: ~
       assignments:
         -
-          title: "HW05 - idk yet"
+          title: "HW05"
+          deadline: "2025-10-20"
     - 
       date: 2025-10-08
       title: Midterm 
