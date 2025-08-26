@@ -11,8 +11,8 @@
           title: "Chapters 1 and 2"
       assignments: 
         -
-          title: "HW01 - Arrays & Classes"
-          url: "hws/HW01.pdf"
+          title: "HW01 - Stable Matching"
+          url: "hws/a1.pdf"
           deadline: "2025-09-15"
     - 
       date: 2025-09-04
