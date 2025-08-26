@@ -68,7 +68,7 @@ the instructor):
 
 Course Readings
 : Required: Algorithm Design by Jon Kleinberg and Eva Tardos
-: Each lecture has an optional accompanying chapter/section of the textbook.
+: Each lecture has a required accompanying chapter/section of the textbook.
 
 Learning Goals
 : Students who complete the course will have demonstrated the ability to do the following:
