@@ -1,5 +1,5 @@
 ---
-title: Data Structures - Bryn Mawr College
+title: Analysis of Algorithms - Bryn Mawr College
 layout: default
 img: <!-- turk-engraving-detail -->
 img_link: <!-- http://en.wikipedia.org/wiki/The_Turk -->
@@ -8,12 +8,7 @@ active_tab: main_page
 ---
 
 
-This course is an introduction to the fundamental data structures of computer science: linked lists,
-stacks, queues, trees (BSTs, heaps, AVLs and other self-balancing BSTs), hash tables,
-sets (Union-Find), graphs and their accompanying algorithms. Principles of algorithmic
-analysis and object reasoning and design will be introduced using mathematical techniques
-for the notions of both complexity and correctness. More practical issues, such as memory
-management, searching, sorting and hashing, will also be covered.
+This course will cover qualitative and quantitative analysis of algorithms and their corresponding data structures from a precise mathematical point of view. Topics include: performance bounds, asymptotic analysis, correctness and complexity. Particular classes of algorithms will be studied in detail, including greedy, divide-and-conquer, dynamic programming, networkflow, NPC and approximation algorithms.
 
 <!-- Display an alert about upcoming homework assignments -->
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
@@ -47,7 +42,7 @@ Check out the [excellent final projects](http://crowdsourcing-class.org/final-pr
 
 
 Course number
-: CMSC B151 
+: CMSC B340 
 
 Instructor
 : [Elizabeth Dinella](https://elizabethdinella.github.io/)
@@ -56,36 +51,41 @@ Teaching Assistants
 : [Course Staff](staff.html) 
 
 Website 
-: [https://bmc-cs-151.github.io/](https://bmc-cs-151.github.io/)
-
-Code Samples From Lecture
-: [Github](https://github.com/BMC-CS-151/class-examples-f25)
+: [https://bmc-cs-340.github.io/](https://bmc-cs-340.github.io/)
 
 Discussion Forum
-: [Piazza](https://piazza.com/brynmawr/fall2025/cs151)
+: [Piazza](https://piazza.com/brynmawr/fall2025/cmscb340)
 
 Time and place
-: Fall 2025, MW 11:40-1:00pm, Location: Park 337
-: Lab W: 2:40-4:00pm, Location: Park 230
+: Fall 2025, MW 1:10-2:30pm, Location: Park 337
+: Lab Thurs: 1:10-2:30pm, Location: Park 230
 
 Prerequisites
 : One of the following courses is required with a grade of 2.0 or better (or permission of
 the instructor):
-1. CS B110
-2. CS B113
-3. CS H105
+1. CS 151
+2. CS 231
 
 Course Readings
-: Each lecture has an optional accompanying chapter/section of the [textbook](https://www.wiley.com/en-us/Data+Structures+and+Algorithms+in+Java%2C+6th+Edition-p-9781118771334). We will be using the 6th edition of Data Structures and Algorithms by Goodrich, Tamassia and Goldwasser. 
-: 
+: Required: Algorithm Design by Jon Kleinberg and Eva Tardos
+: Each lecture has an optional accompanying chapter/section of the textbook.
 
 Grading
-* Homeworks: 40%
+* Homeworks: 15%
+* Project: 15%
 * Labs: 5%
 * Midterm: 25%
-* Final: 25% 
-* Participation: 5%
+* Final: 40% 
 
+Learning Goals
+: Students who complete the course will have demonstrated the ability to do the following:
+: • Analyze the asymptotic performance of algorithms.
+: • Write rigorous correctness proofs for algorithms.
+: • Demonstrate a familiarity with major algorithms and data structures.
+: • Apply important algorithmic design paradigms (Greedy, Divide-and-Conquer, Dynamic
+Programming, major graph algorithms and approximation algorithms) and methods
+of analysis.
+: • Synthesize efficient algorithms in common design situations.
 
 <!---
 Late day policy
