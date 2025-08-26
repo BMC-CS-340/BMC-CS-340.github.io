@@ -16,11 +16,11 @@
         - 
           title: "Lab01 -  Exceptions & I/O"
           url: "labs/Lab01.html"
-          deadline: 2025-01-31
+          deadline: 2025-09-12
         -
           title: "HW00 - Arrays & Classes"
           url: "hws/HW00.html"
-          deadline: "2025-01-31"
+          deadline: "2025-09-12"
     - 
       date: 2025-09-08
       title: Lecture 2 <br> Inheritence <br> OOP 
@@ -40,13 +40,13 @@
       assignments: 
         - 
           title: "Lab02 -  Inheritance, ExpandableArray"
-          url: "labs/Lab02.html"
-          deadline: "2025-02-07"
+          #url: "labs/Lab02.html"
+          deadline: "2025-09-19"
 
         -
           title: "HW01 - ExpandableArray & Inheritance"
-          url: "hws/HW01.html"
-          deadline: "2025-02-07"
+          #url: "hws/HW01.html"
+          deadline: "2025-09-19"
     - 
       date: 2025-09-15
       title: Lecture 4 <br> LinkedList
@@ -67,12 +67,12 @@
       assignments: 
         - 
           title: "Lab03 -  LinkedLists"
-          url: "labs/Lab03.html"
+          #url: "labs/Lab03.html"
           deadline: "2025-02-25"
         - 
           title: "HW02 -  LinkedLists"
           deadline: "2025-02-25"
-          url: "hws/HW02.html"
+          #url: "hws/HW02.html"
         
     - 
       date: 2025-09-22
@@ -93,7 +93,7 @@
       assignments: 
         - 
           title: "Lab04 - Interfaces"
-          url: "labs/Lab04.html"
+          #url: "labs/Lab04.html"
           deadline: 2025-02-25
     - 
       date: 2025-09-29
@@ -114,12 +114,12 @@
       assignments: 
         - 
           title: "Lab05 - Stacks"
-          url: "labs/Lab05.html"
+          #url: "labs/Lab05.html"
           deadline: 2025-03-02
         -
           deadline: 2025-03-02
           title: "HW03 -  Stacks & Queues"
-          url: "hws/HW03.html"
+          #url: "hws/HW03.html"
     -
       date: 2025-10-06
       title: Lecture 10 <br> Implementing Queues <br> Dequeues 
@@ -139,11 +139,11 @@
       assignments: 
         - 
           title: "Lab06 - Iterators & ArrayList"
-          url: "labs/Lab06.html"
+          #url: "labs/Lab06.html"
           deadline: 2025-03-07
         - 
           title: "HW04 - Binary Search"
-          url: "hws/HW04.html"
+          #url: "hws/HW04.html"
           deadline: 2025-03-07
           #deadline: 2023-10-27
           #title: "<s>HW03 -  Stacks & Queues</s>"
@@ -180,12 +180,12 @@
       assignments:
           -
             title: "Lab07 - Binary Trees"
-            url: "labs/Lab07.html"
+            #url: "labs/Lab07.html"
             deadline: 2025-03-28
           -
             title: "HW05 - Binary Trees"
             deadline: 2025-03-28
-            url: "hws/HW05.html"
+            #url: "hws/HW05.html"
     - 
       date: 2025-11-03
       title: Lecture 15 <br> Heaps 
@@ -201,12 +201,12 @@
       assignments: 
         - 
           title: "Lab08 - Array based Binary Trees & Heaps"
-          url: "labs/Lab08.html"
+          #url: "labs/Lab08.html"
           deadline: 2025-04-04
         - 
           title: "HW06 - Heaps"
           deadline: 2025-04-04
-          url: "hws/HW06.html"
+          #url: "hws/HW06.html"
     - 
       date: 2025-11-10
       title: Lecture 17 <br> Priority Queues 
@@ -240,11 +240,11 @@
         -
             title: "Lab09 - HashMaps"
             deadline: 2025-04-18
-            url: "labs/Lab09.html"
+            #url: "labs/Lab09.html"
         -
             deadline: 2025-04-18
             title: "HW07 - Hash Tables"
-            url: "hws/HW07.html"
+            #url: "hws/HW07.html"
     - 
       date: 2025-11-24
       title: Lecture 21 <br> Merge Sort <br> Quick Sort
@@ -285,11 +285,11 @@
         - 
           title: "Lab 10 - AVL Trees"
           deadline: 2025-05-02
-          url: "labs/Lab10.html"
+          #url: "labs/Lab10.html"
         -
           title: "HW08 - AVL Trees"
           deadline: 2025-05-02
-          url: "hws/HW08.html"
+          #url: "hws/HW08.html"
     - 
       date: 2025-12-08
       title: Lecture 25  Graphs  
@@ -306,7 +306,7 @@
       assignments:
           - 
             title: "Lab 11 - Graphs"
-            url: "labs/Lab11.html"
+            #url: "labs/Lab11.html"
             deadline: 2025-05-04
           -
             title: "No Homework"
