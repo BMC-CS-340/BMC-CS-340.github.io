@@ -43,7 +43,7 @@
       assignments:
         -
           title: "Lab1 - Max Bipartite Matching"
-          #url: "labs/Lab1.pdf"
+          url: "labs/lab1.pdf"
           deadline: 2025-09-15
     - 
       date: 2025-09-15
