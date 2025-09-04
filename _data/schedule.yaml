@@ -8,7 +8,7 @@
           #code: "https://github.com/BMC-CS-151/class-examples-f23/tree/main/week1/"
       readings:
         -
-          title: "Chapters 1 and 2"
+          title: "Chapter 1"
       assignments: 
         -
           title: "HW01 - Stable Matching"
@@ -23,12 +23,12 @@
           url: "labs/lab0.pdf"
     -
       date: 2025-09-08
-      title: Lecture 2 <br> Basics of Algorithms Analysis 
+      title: Lecture 2 <br> Gale-Shapley Algorithm
       #slides: "slides/lecture02.pdf"
       recording: ~
       readings:
         -
-          title: "Chapters 2 and 3"
+          title: "Chapter 1"
     - 
       date: 2025-09-10
       title: Lecture 3 <br> Basics of Algorithms Analysis <br> Graphs
