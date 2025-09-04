@@ -16,7 +16,8 @@
           deadline: "2025-09-15"
     - 
       date: 2025-09-04
-      title: No Lab.
+      title: Lab 0.
+      url: "labs/lab0.pdf"
     -
       date: 2025-09-08
       title: Lecture 2 <br> Basics of Algorithms Analysis 
@@ -149,10 +150,6 @@
       #readings:
       #  -
       #    title: "Chapter 8"
-    -
-      date: 2025-10-09
-      title: Lab 0.
-      assignment: Lab 0 - Stable Matching
     - 
       date: 2025-10-13
       title: Fall Break No Class
