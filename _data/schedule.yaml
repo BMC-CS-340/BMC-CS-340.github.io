@@ -16,11 +16,12 @@
           deadline: "2025-09-15"
     - 
       date: 2025-09-04
-      title: Lab 0.
+      title: Lab 0
       assignments:
         -
           title: "Lab 0 - Match Stability"
           url: "labs/lab0.pdf"
+          deadline: "2025-09-11"
     -
       date: 2025-09-08
       title: Lecture 2 <br> Gale-Shapley Algorithm
