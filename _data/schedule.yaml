@@ -33,7 +33,7 @@
     - 
       date: 2025-09-10
       title: Lecture 3 <br> Basics of Algorithms Analysis <br> Graphs
-      #slides: "slides/lecture03.pdf"
+      slides: "slides/lecture03.pdf"
       recording: ~
       readings:
         -
