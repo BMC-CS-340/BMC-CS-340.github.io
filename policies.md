@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS151 Policies
+title: CS340 Policies
 active_tab: Policies
 ---
 
