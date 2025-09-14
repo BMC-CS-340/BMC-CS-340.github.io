@@ -48,7 +48,7 @@
           deadline: 2025-09-15
     - 
       date: 2025-09-15
-      title: Lecture 4 <br> Greedy Algorithms
+      title: Lecture 4 <br> Analysis of Algorithms II <br> Graphs II
       readings:
         -
           title: "Chapter 4"
@@ -62,7 +62,7 @@
 
     - 
       date: 2025-09-17
-      title: Lecture 5 <br> Analysis of Algorithms II <br> Graphs II
+      title: Lecture 5 <br> Greedy Algorithms
       readings:
         -
           title: "Chapter 4"
