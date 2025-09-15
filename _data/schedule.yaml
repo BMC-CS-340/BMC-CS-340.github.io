@@ -8,7 +8,7 @@
           #code: "https://github.com/BMC-CS-151/class-examples-f23/tree/main/week1/"
       readings:
         -
-          title: "Chapters 1 and 2"
+          title: "Chapter 1"
       assignments: 
         -
           title: "HW01 - Stable Matching"
@@ -16,19 +16,24 @@
           deadline: "2025-09-15"
     - 
       date: 2025-09-04
-      title: No Lab.
+      title: Lab 0
+      assignments:
+        -
+          title: "Lab 0 - Match Stability"
+          url: "labs/lab0.pdf"
+          deadline: "2025-09-11"
     -
       date: 2025-09-08
-      title: Lecture 2 <br> Basics of Algorithms Analysis 
-      #slides: "slides/lecture02.pdf"
+      title: Lecture 2 <br> Gale-Shapley Algorithm
+      slides: "slides/lecture02.pdf"
       recording: ~
       readings:
         -
-          title: "Chapters 2 and 3"
+          title: "Chapter 1"
     - 
       date: 2025-09-10
       title: Lecture 3 <br> Basics of Algorithms Analysis <br> Graphs
-      #slides: "slides/lecture03.pdf"
+      slides: "slides/lecture03.pdf"
       recording: ~
       readings:
         -
@@ -39,20 +44,20 @@
       assignments:
         -
           title: "Lab1 - Max Bipartite Matching"
-          #url: "labs/Lab1.pdf"
+          url: "labs/lab1.pdf"
           deadline: 2025-09-15
     - 
       date: 2025-09-15
-      title: Lecture 4 <br> Greedy Algorithms
+      title: Lecture 4 <br> Analysis of Algorithms II <br> Graphs II
       readings:
         -
-          title: "Chapter 4"
+          title: "Chapters 2 and 3"
       slides: "slides/lecture04.pdf"
       recording: ~
       assignments:
         -
           title: "HW02 - Basics of Algorithms Analysis"
-          #url: "labs/Lab1.pdf"
+          url: "hws/a2.pdf"
           deadline: 2025-09-22
 
     - 
@@ -151,8 +156,7 @@
       #    title: "Chapter 8"
     -
       date: 2025-10-09
-      title: Lab 0.
-      assignment: Lab 0 - Stable Matching
+      title: "No lab"
     - 
       date: 2025-10-13
       title: Fall Break No Class
