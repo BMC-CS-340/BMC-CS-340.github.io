@@ -47,7 +47,7 @@
       readings:
         -
           title: "Chapter 4"
-      #slides: "slides/lecture04.pdf"
+      slides: "slides/lecture04.pdf"
       recording: ~
       assignments:
         -
