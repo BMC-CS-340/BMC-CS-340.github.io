@@ -52,7 +52,7 @@
       readings:
         -
           title: "Chapters 2 and 3"
-      #slides: "slides/lecture04.pdf"
+      slides: "slides/lecture04.pdf"
       recording: ~
       assignments:
         -
