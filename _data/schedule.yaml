@@ -62,7 +62,7 @@
 
     - 
       date: 2025-09-17
-      title: Lecture 5 <br> Greedy Algorithms
+      title: Lecture 5 <br> Greedy Algorithms <br> Interval Scheduling
       readings:
         -
           title: "Chapter 4"
@@ -82,7 +82,7 @@
           #url: "labs/Lab2.pdf"
     - 
       date: 2025-09-22
-      title: Lecture 6 <br> Divide and Conquer
+      title: Lecture 6 <br> Greedy Algorithms Part 2
       #slides: "slides/lecture06.pdf"
       recording: ~
       readings:
@@ -94,7 +94,7 @@
           deadline: "2025-09-29"
     -
       date: 2025-09-24
-      title: Lecture 7 <br> Divide and Conquer
+      title: Lecture 7 <br> Greedy Algorithms <br> Dijkstra's Algorithm
       #slides: "slides/lecture07.pdf"
       readings:
         -
@@ -108,7 +108,7 @@
           title: "Lab3 - Dijkstra's"
     - 
       date: 2025-09-29
-      title: Lecture 8 <br> Run Times Worksheet
+      title: Lecture 8 <br> Run Times Worksheet <br> Minimum Spanning Trees
       #slides: "slides/lecture08.pdf"
       #readings:
       #  -
@@ -120,7 +120,7 @@
           deadline: "2025-10-06"
     -
       date: 2025-10-01
-      title: Lecture 9 <br> Divide and Conquer <br> Closest Pair Algorithms
+      title: Lecture 9 <br> Divide and Conquer <br> Mergesort and Inversions
       #slides: "slides/lecture09.pdf"
       #readings:
       #  -
@@ -134,8 +134,7 @@
           title: "Lab 4 - MST"
     -
       date: 2025-10-06
-      title: Lecture 10 <br> Midterm Review 
-      #slides: "slides/lecture10.pdf"
+      title: Lecture 10 <br> Divide and Conquer <br> Closest Pair Algorithms      #slides: "slides/lecture10.pdf"
       #readings:
       #  -
       #    title: "Chapter 5"
