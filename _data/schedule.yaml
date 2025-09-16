@@ -78,8 +78,9 @@
       title: Lab 2
       assignments: 
         -
-          title: "Lab 2 - Asymptotic Notion" 
-          #url: "labs/Lab2.pdf"
+          title: "Lab 2 - Interval Scheduling" 
+          url: "labs/Lab2.pdf"
+          deadline: 2025-09-25
     - 
       date: 2025-09-22
       title: Lecture 6 <br> Greedy Algorithms Part 2
