@@ -70,9 +70,12 @@
       recording: ~
       assignments: 
         - 
-          title: "Project"
+          title: "Project - Description"
           deadline: "2025-11-17"
-          #url: "hws/HW02.html"
+          url: "project/project_description.pdf"
+        -
+          title: "Project - files"
+          url: "project/project.zip"
     -
       date: 2025-09-18
       title: Lab 2
