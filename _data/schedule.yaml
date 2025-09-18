@@ -87,7 +87,7 @@
     - 
       date: 2025-09-22
       title: Lecture 6 <br> Greedy Algorithms Part 2
-      #slides: "slides/lecture06.pdf"
+      slides: "RunTimes.pdf"
       recording: ~
       readings:
           -
@@ -100,7 +100,7 @@
     -
       date: 2025-09-24
       title: Lecture 7 <br> Greedy Algorithms <br> Dijkstra's Algorithm
-      slides: "RunTimes.pdf"
+      #slides: "RunTimes.pdf"
       readings:
         -
           title: "Chapter 4"
