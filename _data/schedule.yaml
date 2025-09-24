@@ -100,7 +100,7 @@
     -
       date: 2025-09-24
       title: Lecture 7 <br> Greedy Algorithms <br> Dijkstra's Algorithm
-      #slides: "RunTimes.pdf"
+      slides: "slides/lecture07.pdf"
       recording: ~
       readings:
         -
