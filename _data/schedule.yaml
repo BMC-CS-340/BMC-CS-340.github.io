@@ -86,7 +86,7 @@
           deadline: 2025-09-25
     - 
       date: 2025-09-22
-      title: Lecture 6 <br> Greedy Algorithms Part 2
+      title: Lecture 6 <br> Greedy Algorithms II
       slides: "RunTimes.pdf"
       recording: ~
       readings:
@@ -95,11 +95,11 @@
       assignments:
         -
           title: "HW03 - Greedy Algorithms"
-          deadline: "2025-09-29"
+          deadline: "2025-10-06"
           url: "hws/a3.pdf"
     -
       date: 2025-09-24
-      title: Lecture 7 <br> Greedy Algorithms <br> Dijkstra's Algorithm
+      title: Lecture 7 <br> Greedy Algorithms III <br> Dijkstra's Algorithm
       slides: "slides/lecture07.pdf"
       recording: ~
       readings:
@@ -115,7 +115,7 @@
           deadline: "2025-10-02"
     - 
       date: 2025-09-29
-      title: Lecture 8 <br> Run Times Worksheet <br> Minimum Spanning Trees
+      title: Lecture 8 <br> Greedy Algorithms IV <br> Minimum Spanning Trees
       #slides: "slides/lecture08.pdf"
       #readings:
       #  -
@@ -127,11 +127,11 @@
           deadline: "2025-10-06"
     -
       date: 2025-10-01
-      title: Lecture 9 <br> Divide and Conquer <br> Mergesort and Inversions
+      title: Lecture 9 <br> Greedy Algorithms V <br> Huffman Coding 
       #slides: "slides/lecture09.pdf"
       readings:
         -
-          title: "Chapter 5"
+          title: "Chapter 4"
       #recording: ~
     -
       date: 2025-10-02
@@ -141,10 +141,7 @@
           title: "Lab 4 - MST"
     -
       date: 2025-10-06
-      title: Lecture 10 <br> Divide and Conquer <br> Closest Pair Algorithms      #slides: "slides/lecture10.pdf"
-      readings:
-        -
-          title: "Chapter 5"
+      title: Lecture 10 <br> Midterm Review 
       #recording: ~
       assignments:
         -
