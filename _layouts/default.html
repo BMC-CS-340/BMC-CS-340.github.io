@@ -208,17 +208,51 @@
                     offset: navHeight
                 });
 
-                const correctPassword = "f25";
+                const correctPasswordHash = "a149e84bc8b8e13e89f78c5ce4287eb27d73764d88b3d41056cc469e5dba4cf0";
 
-                function checkPassword() {
+                // Check if user is already authenticated on page load
+                window.addEventListener('load', function() {
+                    if (localStorage.getItem('authenticated') === 'true') {
+                        showProtectedContent();
+                    }
+                });
+
+                function showProtectedContent() {
+                    document.getElementById('password-prompt').style.display = 'none';
+                    document.getElementById('protected-content').style.display = 'block';
+                }
+
+                async function hashPassword(password) {
+                    const encoder = new TextEncoder();
+                    const data = encoder.encode(password);
+                    const hash = await crypto.subtle.digest('SHA-256', data);
+                    const hashArray = Array.from(new Uint8Array(hash));
+                    return hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+                }
+
+                async function checkPassword() {
                     const entered = document.getElementById('passwordInput').value;
-                    if (entered === correctPassword) {
-                        document.getElementById('password-prompt').style.display = 'none';
-                        document.getElementById('protected-content').style.display = 'block';
+                    const enteredHash = await hashPassword(entered);
+                    
+                    if (enteredHash === correctPasswordHash) {
+                        localStorage.setItem('authenticated', 'true');
+                        showProtectedContent();
                     } else {
                         document.getElementById('error').textContent = 'Incorrect password';
                     }
                 }
+
+                // Add Enter key support for password input
+                document.addEventListener('DOMContentLoaded', function() {
+                    const passwordInput = document.getElementById('passwordInput');
+                    if (passwordInput) {
+                        passwordInput.addEventListener('keypress', function(event) {
+                            if (event.key === 'Enter') {
+                                checkPassword();
+                            }
+                        });
+                    }
+                });
 
             </script>
     </body>
