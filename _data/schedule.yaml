@@ -95,7 +95,7 @@
       assignments:
         -
           title: "HW03 - Greedy Algorithms"
-          deadline: "2025-10-06"
+          deadline: "2025-09-29"
           url: "hws/a3.pdf"
     -
       date: 2025-09-24
@@ -144,9 +144,6 @@
       title: Lecture 10 <br> Midterm Review 
       #recording: ~
       assignments:
-        -
-          title: "HW05"
-          deadline: "2025-10-20"
         - 
           title: "Project Checkpoint 1"
           deadline: "2025-10-09"
@@ -181,7 +178,7 @@
       #recording: ~
       readings:
         - 
-          title: "Chapter 6"
+          title: "Chapter 5"
       assignments:
         -
           title: "HW6 - Dynamic Programming"
