@@ -129,7 +129,7 @@
     -
       date: 2025-10-01
       title: Lecture 9 <br> Greedy Algorithms V <br> Huffman Coding 
-      #slides: "slides/lecture09.pdf"
+      slides: "slides/lecture09.pdf"
       readings:
         -
           title: "Chapter 4"
