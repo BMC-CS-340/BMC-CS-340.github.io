@@ -137,10 +137,11 @@
     -
       date: 2025-10-02
       title: Lab 4
+      slides: "slides/lab4.pdf"
       assignments:
         -
           title: "Lab 4 - MST"
-      slides: "slides/lab4.pdf"
+          url: "labs/lab4.pdf"
     -
       date: 2025-10-06
       title: Lecture 10 <br> Midterm Review 
