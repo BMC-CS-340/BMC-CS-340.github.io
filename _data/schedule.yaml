@@ -193,6 +193,10 @@
       readings:
         -
           title: "Chapter 5"
+      assignments:
+        -
+          title: "Recurrences Worksheet"
+          url: "7-Recurrences.pdf"
     - 
       date: 2025-10-23
       title: Lab 5 - Select
