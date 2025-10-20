@@ -185,8 +185,8 @@
           title: "Chapter 5"
       assignments:
         -
-          title: "HW5 - Divide and Conquer"
-          deadline: "2025-11-03"
+          title: "Recurrences Worksheet"
+          url: "7-Recurrences.pdf"
     -
       date: 2025-10-22
       title: Lecture 13 <br> Divide and Conquer II
@@ -195,8 +195,8 @@
           title: "Chapter 5"
       assignments:
         -
-          title: "Recurrences Worksheet"
-          url: "7-Recurrences.pdf"
+          title: "HW5 - Divide and Conquer"
+          deadline: "2025-11-03"
     - 
       date: 2025-10-23
       title: Lab 5 - Select
