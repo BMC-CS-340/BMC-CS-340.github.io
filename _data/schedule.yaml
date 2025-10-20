@@ -137,6 +137,7 @@
     -
       date: 2025-10-02
       title: Lab 4
+      slides: "slides/lab4.pdf"
       assignments:
         -
           title: "Lab 4 - MST"
@@ -144,6 +145,7 @@
     -
       date: 2025-10-06
       title: Lecture 10 <br> Midterm Review 
+      slides: "slides/lecture10.pdf"
       #recording: ~
       assignments:
         - 
