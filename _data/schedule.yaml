@@ -175,7 +175,7 @@
   lectures:
     - 
       date: 2025-10-20
-      title: Lecture 11 <br> Dynamic Programming
+      title: Lecture 11 <br> Divide and Conquer I
       #slides: "slides/lecture12.pdf"
       #recording: ~
       readings:
@@ -183,20 +183,20 @@
           title: "Chapter 5"
       assignments:
         -
-          title: "HW6 - Dynamic Programming"
-          deadline: "2025-10-27"
+          title: "HW5 - Divide and Conquer"
+          deadline: "2025-11-03"
     -
       date: 2025-10-22
-      title: Lecture 12 <br> Dynamic Programming 
+      title: Lecture 12 <br> Divide and Conquer II
       readings:
         -
-          title: "Chapter 6"
+          title: "Chapter 5"
     - 
       date: 2025-10-23
-      title: Lab 5
+      title: Lab 5 - Select
     - 
       date: 2025-10-27
-      title: Lecture 13 <br> DP and Network Flow
+      title: Lecture 13 <br> Dynamic Programming
       #slides: "slides/lecture13.pdf"
       recording: ~
       assignments: 
@@ -208,7 +208,7 @@
           deadline: "2025-10-30"
       readings:
         -
-          title: "Chapter 7"
+          title: "Chapter 6"
     -
       date: 2025-10-29
       title: Lecture 14 <br> Network Flow
