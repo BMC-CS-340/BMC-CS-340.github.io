@@ -177,7 +177,7 @@
   lectures:
     - 
       date: 2025-10-20
-      title: Lecture 11 <br> Divide and Conquer I
+      title: Lecture 12 <br> Divide and Conquer I
       #slides: "slides/lecture12.pdf"
       #recording: ~
       readings:
@@ -189,7 +189,7 @@
           deadline: "2025-11-03"
     -
       date: 2025-10-22
-      title: Lecture 12 <br> Divide and Conquer II
+      title: Lecture 13 <br> Divide and Conquer II
       readings:
         -
           title: "Chapter 5"
@@ -202,7 +202,7 @@
       title: Lab 5 - Select
     - 
       date: 2025-10-27
-      title: Lecture 13 <br> Dynamic Programming
+      title: Lecture 14 <br> Dynamic Programming
       #slides: "slides/lecture13.pdf"
       recording: ~
       assignments: 
@@ -217,7 +217,7 @@
           title: "Chapter 6"
     -
       date: 2025-10-29
-      title: Lecture 14 <br> Network Flow
+      title: Lecture 15 <br> Network Flow
       #slides: "slides/lecture14.pdf"
       #recording: ~
       readings:
@@ -228,7 +228,7 @@
       title: Lab 6
     - 
       date: 2025-11-03
-      title: Lecture 15 <br> Intro to NPC <br> Intractability 
+      title: Lecture 16 <br> Intro to NPC <br> Intractability 
       #slides: "slides/lecture15.pdf"
       recording: ~
       assignments: 
@@ -239,7 +239,7 @@
           title: "Chapter 8"
     - 
       date: 2025-11-05
-      title: Lecture 16 <br> Intro to NPC <br> Intractability 
+      title: Lecture 17 <br> Intro to NPC <br> Intractability 
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings: 
@@ -250,7 +250,7 @@
       title: Lab 7
     - 
       date: 2025-11-10
-      title: Lecture 17 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
+      title: Lecture 18 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
       recording: ~
       readings: 
         -
@@ -261,7 +261,7 @@
           deadline: 2025-11-17
     - 
       date: 2025-11-12
-      title: Lecture 18 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
+      title: Lecture 19 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
       #slides: "slides/lecture18.pdf"
       readings:
         -
@@ -271,20 +271,20 @@
       title: Lab 8
     - 
       date: 2025-11-17
-      title: Lecture 19 <br> Project Presentations  
+      title: Lecture 20 <br> Project Presentations  
       #slides: "slides/lecture19.pdf"
       assignments:
         -
           title: "No Homework"
     - 
       date: 2025-11-19
-      title: Lecture 20 <br> Project Presentations  
+      title: Lecture 21 <br> Project Presentations  
     -
       date: 2025-11-20
       title: No Lab. <br> Thanksgiving Break.
     - 
       date: 2025-11-24
-      title: Lecture 21 <br> Approximation Algorithms
+      title: Lecture 22 <br> Approximation Algorithms
       #slides: "slides/lecture21.pdf"
       #recording: ~
       readings:
@@ -298,7 +298,7 @@
           deadline: 2025-12-01
     - 
       date: 2025-11-26
-      title: Lecture 22 <br> Approximation Algorithms
+      title: Lecture 23 <br> Approximation Algorithms
       #slides: "slides/lecture22.pdf"
       recording: ~
       readings:
@@ -309,7 +309,7 @@
       title: Lab 9
     - 
       date: 2025-12-01
-      title: Lecture 23 <br> Randomized Algorithms
+      title: Lecture 24 <br> Randomized Algorithms
       #slides: "slides/lecture23.pdf"
       readings: 
         -
@@ -320,7 +320,7 @@
           title: "No Homework"
     - 
       date: 2025-12-03
-      title: Lecture 24 <br> Final Exam Review
+      title: Lecture 25 <br> Final Exam Review
       #slides: "slides/lecture24.pdf"
       recording: ~
     -
@@ -328,14 +328,14 @@
       title: Lab 10
     - 
       date: 2025-12-08
-      title: Lecture 25  <br> Final Exam Review  
+      title: Lecture 26  <br> Final Exam Review  
       #slides: "slides/lecture25.pdf"
       assignments:
         -
           title: "No Homework"
     -
       date: 2025-12-10
-      title: Lecture 26 <br> Final Exam
+      title: Lecture 27 <br> Final Exam
       #slides: "slides/lecture26.pdf"
       readings: ~
       recording: ~
