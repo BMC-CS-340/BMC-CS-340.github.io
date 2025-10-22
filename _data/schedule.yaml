@@ -227,7 +227,7 @@
       title: Lab 6
     - 
       date: 2025-11-03
-      title: Lecture 16 <br> Dynamic Programming
+      title: Lecture 16 <br> Dynamic Programming <br> Weighted Interval Scheduling
       #slides: "slides/lecture15.pdf"
       recording: ~
       assignments: 
@@ -238,7 +238,7 @@
           title: "Chapter 6"
     - 
       date: 2025-11-05
-      title: Lecture 17 <br> Dynamic Programming
+      title: Lecture 17 <br> Dynamic Programming <br> Knapsack <br> CMM
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings: 
@@ -249,46 +249,46 @@
       title: Lab 7 - Quiz
     - 
       date: 2025-11-10
-      title: Lecture 18 <br> Network Flow
+      title: Lecture 18 <br> Dynamic Programming <br> Longest Common Subsequence 
       recording: ~
       readings: 
         -
-          title: "Chapter 7"
+          title: "Chapter 6"
       assignments:
         -
           title: "HW9 - NPC"
           deadline: 2025-11-17
     - 
       date: 2025-11-12
-      title: Lecture 19 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
+      title: Lecture 19 <br> Network Flow
       #slides: "slides/lecture18.pdf"
       readings:
         -
-          title: "Chapter 11.1-11.5"
+          title: "Chapter 7"
     -
       date: 2025-11-13
       title: Lab 8
     - 
       date: 2025-11-17
-      title: Lecture 20 <br> Project Presentations  
+      title: Lecture 20 <br> Project Presentations <br> Network Flow 
       #slides: "slides/lecture19.pdf"
       assignments:
         -
           title: "No Homework"
     - 
       date: 2025-11-19
-      title: Lecture 21 <br> Project Presentations  
+      title: Lecture 21 <br> Project Presentations  <br> DP on Graphs
     -
       date: 2025-11-20
-      title: No Lab. <br> Thanksgiving Break.
+      title: Lab 9
     - 
       date: 2025-11-24
-      title: Lecture 22 <br> Approximation Algorithms
+      title: Lecture 22 <br> NP Completeness
       #slides: "slides/lecture21.pdf"
       #recording: ~
       readings:
         -
-          title: "Chapter 11.6 - 11.8"
+          title: "Chapter 11"
       #  -
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
       assignments:
@@ -305,14 +305,14 @@
           title: "Chapter 11.6 - 11.8"
     -
       date: 2025-11-27
-      title: Lab 9
+      title: No Lab <br> Thanksgiving Break.
     - 
       date: 2025-12-01
-      title: Lecture 24 <br> Randomized Algorithms
+      title: Lecture 24 <br> NP Completeness
       #slides: "slides/lecture23.pdf"
       readings: 
         -
-          title: "Chapter 13"
+          title: "Chapter 11"
       recording: ~
       assignments:
         -
