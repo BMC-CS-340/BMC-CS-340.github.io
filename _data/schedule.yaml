@@ -190,6 +190,7 @@
     -
       date: 2025-10-22
       title: Lecture 13 <br> Divide and Conquer II
+      #slides: "slides/lecture13.pdf"
       readings:
         -
           title: "Chapter 5"
@@ -203,49 +204,46 @@
       title: Lab 5 - Select
     - 
       date: 2025-10-27
-      title: Lecture 14 <br> Dynamic Programming
+      title: Lecture 14 <br> Divide and Conquer III
       #slides: "slides/lecture13.pdf"
       recording: ~
       assignments: 
-        -
-          title: "HW7 - Network Flow"
-          deadline: "2025-11-03"
         -
           title: "Project Checkpoint 2"
           deadline: "2025-10-30"
       readings:
         -
-          title: "Chapter 6"
+          title: "Chapter 5"
     -
       date: 2025-10-29
-      title: Lecture 15 <br> Network Flow
+      title: Lecture 15 <br> Dynamic Programming
       #slides: "slides/lecture14.pdf"
       #recording: ~
       readings:
         -
-          title: "Chapter 7"
+          title: "Chapter 6"
     -
       date: 2025-10-30
       title: Lab 6
     - 
       date: 2025-11-03
-      title: Lecture 16 <br> Intro to NPC <br> Intractability 
+      title: Lecture 16 <br> Dynamic Programming
       #slides: "slides/lecture15.pdf"
       recording: ~
       assignments: 
         -
-          title: "HW8 - Network Flow II"
+          title: "HW6 - Dynamic Programming"
       readings:
         -
-          title: "Chapter 8"
+          title: "Chapter 6"
     - 
       date: 2025-11-05
-      title: Lecture 17 <br> Intro to NPC <br> Intractability 
+      title: Lecture 17 <br> Network Flow
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings: 
         -
-          title: "Chapter 8"
+          title: "Chapter 7"
     -
       date: 2025-11-06
       title: Lab 7
