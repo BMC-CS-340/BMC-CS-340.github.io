@@ -177,7 +177,7 @@
   lectures:
     - 
       date: 2025-10-20
-      title: Lecture 12 <br> Divide and Conquer I
+      title: Lecture 12 <br> Divide and Conquer <br> MergeSort
       slides: "slides/lecture12.pdf"
       #recording: ~
       readings:
@@ -189,7 +189,7 @@
           url: "7-Recurrences.pdf"
     -
       date: 2025-10-22
-      title: Lecture 13 <br> Divide and Conquer II
+      title: Lecture 13 <br> Divide and Conquer <br> Inversion Counting
       #slides: "slides/lecture13.pdf"
       readings:
         -
@@ -201,10 +201,10 @@
           deadline: "2025-11-03"
     - 
       date: 2025-10-23
-      title: Lab 5 - Select
+      title: Lab 5
     - 
       date: 2025-10-27
-      title: Lecture 14 <br> Divide and Conquer III
+      title: Lecture 14 <br> Divide and Conquer <br> Closest Pair
       #slides: "slides/lecture13.pdf"
       recording: ~
       assignments: 
@@ -216,12 +216,12 @@
           title: "Chapter 5"
     -
       date: 2025-10-29
-      title: Lecture 15 <br> Dynamic Programming
+      title: Lecture 15 <br> Divide and Conquer <br> Select
       #slides: "slides/lecture14.pdf"
       #recording: ~
       readings:
         -
-          title: "Chapter 6"
+          title: "Chapter 5"
     -
       date: 2025-10-30
       title: Lab 6
@@ -238,22 +238,22 @@
           title: "Chapter 6"
     - 
       date: 2025-11-05
-      title: Lecture 17 <br> Network Flow
+      title: Lecture 17 <br> Dynamic Programming
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings: 
         -
-          title: "Chapter 7"
+          title: "Chapter 6"
     -
       date: 2025-11-06
-      title: Lab 7
+      title: Lab 7 - Quiz
     - 
       date: 2025-11-10
-      title: Lecture 18 <br> Reductions <br> NP-Complete <br> Approximation Algorithms
+      title: Lecture 18 <br> Network Flow
       recording: ~
       readings: 
         -
-          title: "Chapter 11.1-11.5"
+          title: "Chapter 7"
       assignments:
         -
           title: "HW9 - NPC"
