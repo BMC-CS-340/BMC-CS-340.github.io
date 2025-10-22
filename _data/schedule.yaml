@@ -308,7 +308,7 @@
       title: No Lab <br> Thanksgiving Break.
     - 
       date: 2025-12-01
-      title: Lecture 24 <br> NP Completeness
+      title: Lecture 24 <br> Load Balancing and k-Center
       #slides: "slides/lecture23.pdf"
       readings: 
         -
@@ -319,12 +319,12 @@
           title: "No Homework"
     - 
       date: 2025-12-03
-      title: Lecture 25 <br> Final Exam Review
+      title: Lecture 25 <br> Set Cover and TSP
       #slides: "slides/lecture24.pdf"
       recording: ~
     -
       date: 2025-12-04
-      title: Lab 10
+      title: Lab 10 - IP / LP
     - 
       date: 2025-12-08
       title: Lecture 26  <br> Final Exam Review  
