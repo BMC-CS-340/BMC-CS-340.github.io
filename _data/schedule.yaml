@@ -190,7 +190,7 @@
     -
       date: 2025-10-22
       title: Lecture 13 <br> Divide and Conquer <br> Inversion Counting
-      #slides: "slides/lecture13.pdf"
+      slides: "slides/lecture13.pdf"
       readings:
         -
           title: "Chapter 5"
