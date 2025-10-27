@@ -257,6 +257,10 @@
       readings: 
         -
           title: "Chapter 7"
+      assignments:
+        -
+          title: "HW7 - Dynamic Programming II"
+          deadline: "2025-11-17"
     - 
       date: 2025-11-12
       title: Lecture 19 <br> Network Flow
@@ -264,9 +268,6 @@
       readings:
         -
           title: "Chapter 7"
-      assignments:
-        -
-          title: "HW7 - Network Flow"
     -
       date: 2025-11-13
       title: Lab 8
@@ -274,9 +275,9 @@
       date: 2025-11-17
       title: Lecture 20 <br> Project Presentations <br> Network Flow 
       #slides: "slides/lecture19.pdf"
-      #assignments:
-      #  -
-      #    title: "No Homework"
+      assignments:
+        -
+          title: "HW8 - Network Flow"
     - 
       date: 2025-11-19
       title: Lecture 21 <br> Project Presentations  <br> DP on Graphs
