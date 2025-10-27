@@ -217,29 +217,30 @@
           title: "Chapter 5"
     -
       date: 2025-10-29
-      title: Lecture 15 <br> Divide and Conquer <br> Select
+      title: Lecture 15 <br> Dynamic Programming <br> Weighted Interval Scheduling
       #slides: "slides/lecture14.pdf"
       #recording: ~
       readings:
         -
-          title: "Chapter 5"
+          title: "Chapter 6"
     -
       date: 2025-10-30
       title: Lab 6
     - 
       date: 2025-11-03
-      title: Lecture 16 <br> Dynamic Programming <br> Weighted Interval Scheduling
+      title: Lecture 16 <br> Dynamic Programming <br> Knapsack <br> CMM
       #slides: "slides/lecture15.pdf"
       recording: ~
       assignments: 
         -
           title: "HW6 - Dynamic Programming"
+          url: "hws/a6.pdf"
       readings:
         -
           title: "Chapter 6"
     - 
       date: 2025-11-05
-      title: Lecture 17 <br> Dynamic Programming <br> Knapsack <br> CMM
+      title: Lecture 17 <br> Dynamic Programming <br> Longest Common Subsequence
       #slides: "slides/lecture16.pdf"
       recording: ~
       readings: 
@@ -250,11 +251,11 @@
       title: Lab 7 - Quiz
     - 
       date: 2025-11-10
-      title: Lecture 18 <br> Dynamic Programming <br> Longest Common Subsequence 
+      title: Lecture 18 <br> Network Flow
       recording: ~
       readings: 
         -
-          title: "Chapter 6"
+          title: "Chapter 7"
     - 
       date: 2025-11-12
       title: Lecture 19 <br> Network Flow
