@@ -218,7 +218,7 @@
     -
       date: 2025-10-29
       title: Lecture 15 <br> Dynamic Programming <br> Weighted Interval Scheduling
-      #slides: "slides/lecture14.pdf"
+      slides: "slides/lecture15.pdf"
       #recording: ~
       readings:
         -
