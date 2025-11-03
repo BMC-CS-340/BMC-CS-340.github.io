@@ -233,7 +233,7 @@
     - 
       date: 2025-11-03
       title: Lecture 16 <br> Dynamic Programming <br> Knapsack <br> CMM
-      #slides: "slides/lecture15.pdf"
+      slides: "slides/lecture16.pdf"
       recording: ~
       assignments: 
         -
