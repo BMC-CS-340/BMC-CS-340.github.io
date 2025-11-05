@@ -246,7 +246,7 @@
     - 
       date: 2025-11-05
       title: Lecture 17 <br> Dynamic Programming <br> Longest Common Subsequence
-      #slides: "slides/lecture16.pdf"
+      slides: "slides/lecture17.pdf"
       recording: ~
       readings: 
         -
