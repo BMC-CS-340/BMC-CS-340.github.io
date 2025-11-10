@@ -263,8 +263,9 @@
           title: "Chapter 7"
       assignments:
         -
-          title: "HW7 - Dynamic Programming II"
+          title: "HW7 - Dynamic Programming II + Network Flow"
           deadline: "2025-11-17"
+          url: "hws/a7.pdf"
     - 
       date: 2025-11-12
       title: Lecture 19 <br> Network Flow
