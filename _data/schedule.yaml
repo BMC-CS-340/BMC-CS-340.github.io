@@ -283,7 +283,8 @@
       #slides: "slides/lecture19.pdf"
       assignments:
         -
-          title: "HW8 - Network Flow"
+          title: "HW8 - Network Flow + DP on Graphs"
+          deadline: "2025-11-24"
     - 
       date: 2025-11-19
       title: Lecture 21 <br> Project Presentations  <br> DP on Graphs
@@ -302,7 +303,7 @@
       #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
       assignments:
         -
-          title: "HW8 - NPC"
+          title: "HW9 - NPC"
           deadline: 2025-12-01
     - 
       date: 2025-11-26
@@ -325,7 +326,8 @@
       recording: ~
       assignments:
         -
-          title: "HW9 - Approximation Algorithms"
+          title: "HW10 - Approximation Algorithms"
+          deadline: "2025-12-08"
     - 
       date: 2025-12-03
       title: Lecture 25 <br> Set Cover and TSP
