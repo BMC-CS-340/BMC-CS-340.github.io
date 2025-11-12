@@ -270,7 +270,7 @@
     - 
       date: 2025-11-12
       title: Lecture 19 <br> Network Flow
-      #slides: "slides/lecture18.pdf"
+      slides: "slides/lecture19.pdf"
       readings:
         -
           title: "Chapter 7"
