@@ -280,7 +280,7 @@
     - 
       date: 2025-11-17
       title: Lecture 20 <br> Project Presentations <br> Network Flow 
-      #slides: "slides/lecture19.pdf"
+      slides: "slides/lecture20.pdf"
       assignments:
         -
           title: "HW8 - Network Flow + DP on Graphs"
