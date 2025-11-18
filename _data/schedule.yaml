@@ -292,13 +292,19 @@
           url: "hws/a8.pdf"
     - 
       date: 2025-11-19
-      title: Lecture 21 <br> Project Presentations  <br> DP on Graphs
+      title: Lecture 21 <br> Project Presentations  <br> Network Flow
+      readings:
+        -
+          title: "Chapter 7"
     -
       date: 2025-11-20
       title: Lab 9
     - 
       date: 2025-11-24
-      title: Lecture 22 <br> NP Completeness
+      title: Lecture 22 <br> DP on Graphs
+      readings:
+        - 
+          title: "Chapter 6.8-6.10"
       #slides: "slides/lecture21.pdf"
       #recording: ~
       readings:
@@ -312,7 +318,7 @@
           deadline: 2025-12-01
     - 
       date: 2025-11-26
-      title: Lecture 23 <br> NP Completeness <br> 3SAT, Independent Set, Vertex Cover
+      title: Lecture 23 <br> NP Completeness 
       #slides: "slides/lecture22.pdf"
       recording: ~
       readings:
