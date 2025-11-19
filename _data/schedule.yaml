@@ -293,6 +293,7 @@
     - 
       date: 2025-11-19
       title: Lecture 21 <br> Project Presentations  <br> Network Flow
+      slides: "slides/lecture21.pdf"
       readings:
         -
           title: "Chapter 7"
