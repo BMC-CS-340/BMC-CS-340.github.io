@@ -306,12 +306,6 @@
         - 
           title: "Chapter 6.8-6.10"
       #slides: "slides/lecture21.pdf"
-      #recording: ~
-      readings:
-        -
-          title: "Chapter 11"
-      #  -
-      #    title: "Chapter 11.2 - 11.3 Balanced Trees, AVL Trees"
       assignments:
         -
           title: "HW9 - NPC"
