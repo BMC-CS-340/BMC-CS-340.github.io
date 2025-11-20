@@ -330,15 +330,15 @@
         -
           title: "Chapter 11"
       recording: ~
-      assignments:
-        -
-          title: "HW10 - Approximation Algorithms"
-          deadline: "2025-12-08"
     - 
       date: 2025-12-03
       title: Lecture 25 <br> Set Cover and TSP
       #slides: "slides/lecture24.pdf"
       recording: ~
+      assignments:
+        -
+          title: "HW10 - Approximation Algorithms"
+          deadline: "2025-12-10"
     -
       date: 2025-12-04
       title: Lab 10 - IP / LP
