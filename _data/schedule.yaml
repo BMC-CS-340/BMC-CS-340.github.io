@@ -306,7 +306,7 @@
       readings:
         - 
           title: "Chapter 6.8-6.10"
-      #slides: "slides/lecture21.pdf"
+      slides: "slides/lecture22.pdf"
     - 
       date: 2025-11-26
       title: Lecture 23 <br> NP Completeness 
