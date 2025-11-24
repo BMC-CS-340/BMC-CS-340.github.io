@@ -309,26 +309,24 @@
       slides: "slides/lecture22.pdf"
     - 
       date: 2025-11-26
-      title: Lecture 23 <br> NP Completeness 
+      title: Class Cancelled
       #slides: "slides/lecture22.pdf"
       recording: ~
-      readings:
-        -
-          title: "Chapter 11.6 - 11.8"
-      assignments:
-        -
-          title: "HW9 - NPC"
-          deadline: 2025-12-03
+      
     -
       date: 2025-11-27
       title: No Lab <br> Thanksgiving Break.
     - 
       date: 2025-12-01
-      title: Lecture 24 <br> Load Balancing and k-Center
+      title: Lecture 23 <br> NP Completeness
       #slides: "slides/lecture23.pdf"
-      readings: 
+      readings:
         -
           title: "Chapter 11"
+      assignments:
+        -
+          title: "HW9 - NPC"
+          deadline: 2025-12-03
       recording: ~
     - 
       date: 2025-12-03
