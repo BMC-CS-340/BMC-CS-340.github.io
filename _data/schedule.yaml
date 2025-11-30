@@ -318,7 +318,7 @@
       title: No Lab <br> Thanksgiving Break.
     - 
       date: 2025-12-01
-      title: Lecture 23 <br> NP Completeness
+      title: Lecture 23 <br> NP and Computational Intractability
       #slides: "slides/lecture23.pdf"
       readings:
         -
@@ -331,20 +331,20 @@
       recording: ~
     - 
       date: 2025-12-03
-      title: Lecture 25 <br> Set Cover and TSP
+      title: Lecture 25 <br> NP and Computational Intractability
       #slides: "slides/lecture24.pdf"
       recording: ~
     -
       date: 2025-12-04
-      title: Lab 10 - IP / LP
+      title: Lab 10
     - 
       date: 2025-12-08
-      title: Lecture 26  <br> Final Exam Review  
+      title: Lecture 26  <br> Approximation Algorithms
       #slides: "slides/lecture25.pdf"
       assignments:
         -
           title: "HW10 - Approximation Algorithms"
-          deadline: "2025-12-10"
+          deadline: "2025-12-11"
     -
       date: 2025-12-10
       title: Lecture 27 <br> Final Exam Review
