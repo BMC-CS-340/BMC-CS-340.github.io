@@ -319,7 +319,7 @@
     - 
       date: 2025-12-01
       title: Lecture 23 <br> NP and Computational Intractability
-      #slides: "slides/lecture23.pdf"
+      slides: "slides/lecture23.pdf"
       readings:
         -
           title: "Chapter 8"
