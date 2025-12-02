@@ -331,7 +331,7 @@
       recording: ~
     - 
       date: 2025-12-03
-      title: Lecture 24 <br> NP and Computational Intractability
+      title: Lecture 24 <br> NP-Completeness
       #slides: "slides/lecture24.pdf"
       recording: ~
       readings:
