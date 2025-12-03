@@ -337,6 +337,10 @@
       readings:
         -
           title: "Chapter 8"
+      assigments:
+        - 
+          title: "NP Completeness Worksheet"
+          url: "npc_problems_worksheet.pdf"
     -
       date: 2025-12-04
       title: Lab 10
