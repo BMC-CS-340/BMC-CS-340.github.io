@@ -353,10 +353,6 @@
       readings:
         -
           title: "Chapter 11"
-      assignments:
-        -
-          title: "HW10 - Approximation Algorithms"
-          deadline: "2025-12-11"
     -
       date: 2025-12-10
       title: Lecture 26 <br> Final Exam Review
